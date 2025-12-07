@@ -8,7 +8,7 @@ interface MusicEntry {
 }
 
 const TARGET_URL = "https://p.eagate.573.jp/game/infinitas/2/music/index.html";
-const OUTPUT_FILE = path.join(process.cwd(), "public", "music.json");
+const OUTPUT_FILE = path.join(process.cwd(), "docs", "music.json");
 
 async function scrapeMusic() {
   try {
