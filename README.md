@@ -7,7 +7,7 @@ This repository automatically scrapes the [official website](https://p.eagate.57
 The music list is available at the following URL:
 
 
-https://oidehosp.github.io/infapi/music.json
+https://dqn.github.io/infapi/music.json
 
 ### Data Format
 
