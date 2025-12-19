@@ -19,13 +19,9 @@ https://dqn.github.io/iidxapi/infinitas/music.json
 ]
 ```
 
-### SP☆11 Difficulty Tables
+### Difficulty Tables
 
-Get the SP☆11 difficulty tables for Normal and Hard clear.
-
-#### Normal Clear Difficulty Table
-
-https://dqn.github.io/iidxapi/sp11/normal.json
+Get the SP☆11/12 difficulty tables for Normal and Hard clear.
 
 ```json
 [
@@ -35,64 +31,26 @@ https://dqn.github.io/iidxapi/sp11/normal.json
   }
 ]
 ```
-
-#### Hard Clear Difficulty Table
-
-https://dqn.github.io/iidxapi/sp11/hard.json
-
-```json
-[
-  {
-    "title": "Song Title",
-    "tier": "地力S"
-  }
-]
-```
-
-### SP☆12 Difficulty Tables
-
-Get the SP☆12 difficulty tables for Normal and Hard clear.
-
-#### Normal Clear Difficulty Table
-
-https://dqn.github.io/iidxapi/sp12/normal.json
-
-```json
-[
-  {
-    "title": "Song Title",
-    "tier": "地力S"
-  }
-]
-```
-
-#### Hard Clear Difficulty Table
-
-https://dqn.github.io/iidxapi/sp12/hard.json
-
-```json
-[
-  {
-    "title": "Song Title",
-    "tier": "地力S"
-  }
-]
-```
-
-### Tier Types
 
 #### SP☆11
 
-- `地力S+`, `地力S`, `地力A`, `地力B`, `地力C`, `地力D`, `地力E`, `地力F`
-- `個人差S+`, `個人差S`, `個人差A`, `個人差B`, `個人差C`, `個人差D`, `個人差E`
-- `超個人差`
-- `未定`
+Normal:
+
+https://dqn.github.io/iidxapi/sp11/normal.json
+
+Hard:
+
+https://dqn.github.io/iidxapi/sp11/hard.json
 
 #### SP☆12
 
-- `地力S+`, `地力S`, `地力A`, `地力B`, `地力C`, `地力D`, `地力E`, `地力F`
-- `個人差S`, `個人差A`, `個人差B`, `個人差C`, `個人差D`
-- `未定`
+Normal:
+
+https://dqn.github.io/iidxapi/sp12/normal.json
+
+Hard:
+
+https://dqn.github.io/iidxapi/sp12/hard.json
 
 ## Update Frequency
 
