@@ -18,3 +18,7 @@ yarn-error.log*
 # Editor
 .vscode/
 .idea/
+
+# AI
+.agent
+.serena

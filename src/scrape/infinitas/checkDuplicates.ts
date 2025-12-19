@@ -6,7 +6,7 @@ interface MusicEntry {
   artist: string;
 }
 
-const FILE_PATH = path.join(process.cwd(), "docs", "music.json");
+const FILE_PATH = path.join(process.cwd(), "docs", "infinitas", "music.json");
 
 async function checkDuplicates() {
   if (!fs.existsSync(FILE_PATH)) {
