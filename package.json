@@ -5,9 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "scrape": "npm run scrape:infinitas:music && npm run scrape:sp11:normal && npm run scrape:sp11:hard && npm run scrape:sp12:normal && npm run scrape:sp12:hard",
     "scrape:infinitas:music": "tsx src/scrape/infinitas/music.ts",
     "scrape:sp11:normal": "tsx src/scrape/sp11/normal.ts",
     "scrape:sp11:hard": "tsx src/scrape/sp11/hard.ts",
+    "scrape:sp12:normal": "tsx src/scrape/sp12/normal.ts",
+    "scrape:sp12:hard": "tsx src/scrape/sp12/hard.ts",
     "fix": "prettier --write .",
     "lint": "tsx src/scrape/infinitas/checkDuplicates.ts"
   },
