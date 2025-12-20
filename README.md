@@ -27,7 +27,8 @@ Get the SP☆11/12 difficulty tables for Normal and Hard clear.
 [
   {
     "title": "Song Title",
-    "tier": "地力S"
+    "tier": "地力S",
+    "attributes": ["CN", "乱打", "ラス殺し"]
   }
 ]
 ```

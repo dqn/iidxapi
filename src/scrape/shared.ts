@@ -5,6 +5,7 @@ import { chromium } from "playwright";
 export interface DifficultyEntry {
   title: string;
   tier: string;
+  attributes: string[];
 }
 
 interface ScrapeOptions {
@@ -43,7 +44,8 @@ export async function scrapeDifficultyTable(
 
     console.log("Extracting data...");
     const entries = await page.evaluate(() => {
-      const results: { title: string; tier: string }[] = [];
+      const results: { title: string; tier: string; attributes: string[] }[] =
+        [];
       const tables = document.querySelectorAll("table");
 
       tables.forEach((table) => {
@@ -63,16 +65,22 @@ export async function scrapeDifficultyTable(
         // tierが取得できない場合はスキップ
         if (!tier) return;
 
-        // テーブルの各行から曲名を取得（ヘッダー行をスキップ）
+        // テーブルの各行から曲名と属性を取得（ヘッダー行をスキップ）
         const rows = table.querySelectorAll("tr");
         rows.forEach((row, index) => {
           if (index === 0) return; // ヘッダー行
 
           const cells = row.querySelectorAll("td");
-          if (cells.length >= 2) {
+          if (cells.length >= 5) {
             const title = cells[1].textContent?.trim() ?? "";
+            const attributeText = cells[4].textContent?.trim() ?? "";
+            // カンマや読点で分割し、空白をトリムして空文字列を除外
+            const attributes = attributeText
+              .split(/[、,]/)
+              .map((s) => s.trim())
+              .filter((s) => s !== "");
             if (title) {
-              results.push({ title, tier: tier! });
+              results.push({ title, tier: tier!, attributes });
             }
           }
         });
