@@ -2,13 +2,11 @@ import * as cheerio from "cheerio";
 import fs from "fs-extra";
 import path from "path";
 
-interface MusicEntry {
-  title: string;
-  artist: string;
-}
+import type { MusicEntry } from "./types.js";
+import { DOCS_DIR } from "../shared.js";
 
 const TARGET_URL = "https://p.eagate.573.jp/game/infinitas/2/music/index.html";
-const OUTPUT_FILE = path.join(process.cwd(), "docs", "infinitas", "music.json");
+const OUTPUT_FILE = path.join(DOCS_DIR, "infinitas/music.json");
 
 async function scrapeMusic() {
   try {

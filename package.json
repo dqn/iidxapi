@@ -2,7 +2,6 @@
   "name": "iidxapi",
   "version": "1.0.0",
   "description": "beatmania IIDX API",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "scrape": "npm run scrape:infinitas:music && npm run scrape:sp11:normal && npm run scrape:sp11:hard && npm run scrape:sp12:normal && npm run scrape:sp12:hard",
@@ -12,17 +11,16 @@
     "scrape:sp12:normal": "tsx src/scrape/sp12/normal.ts",
     "scrape:sp12:hard": "tsx src/scrape/sp12/hard.ts",
     "fix": "prettier --write .",
-    "lint": "tsx src/scrape/infinitas/checkDuplicates.ts"
+    "lint": "tsc --noEmit",
+    "check:duplicates": "tsx src/scrape/infinitas/checkDuplicates.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/eslint": "^9.6.1",
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.11.24",
     "cheerio": "^1.1.2",
-    "eslint": "^9.39.1",
     "fs-extra": "^11.3.2",
     "playwright": "^1.57.0",
     "prettier": "^3.7.4",

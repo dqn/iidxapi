@@ -1,12 +1,10 @@
 import fs from "fs-extra";
 import path from "path";
 
-interface MusicEntry {
-  title: string;
-  artist: string;
-}
+import type { MusicEntry } from "./types.js";
+import { DOCS_DIR } from "../shared.js";
 
-const FILE_PATH = path.join(process.cwd(), "docs", "infinitas", "music.json");
+const FILE_PATH = path.join(DOCS_DIR, "infinitas/music.json");
 
 async function checkDuplicates() {
   if (!fs.existsSync(FILE_PATH)) {
