@@ -2,3041 +2,5076 @@
   {
     "title": "ADAMANT",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "二重階段"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "二重階段"
+    ]
   },
   {
     "title": "Ambush Ace",
     "tier": "未定",
-    "attributes": ["CN", "乱打", "ラス殺し"]
+    "attributes": [
+      "CN",
+      "乱打",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Amethyst",
     "tier": "未定",
-    "attributes": ["階段"]
+    "attributes": [
+      "階段"
+    ]
   },
   {
     "title": "Bang-Boo Bumble",
     "tier": "未定",
-    "attributes": ["CN", "皿絡み"]
+    "attributes": [
+      "CN",
+      "皿絡み"
+    ]
   },
   {
     "title": "BLUST OF WIND(L)",
     "tier": "未定",
-    "attributes": ["CN", "ズレ", "デニム", "ラス殺し"]
+    "attributes": [
+      "CN",
+      "ズレ",
+      "デニム",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Caldwell 99",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "連皿", "皿同時"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "連皿",
+      "皿同時"
+    ]
   },
   {
     "title": "CHAOTIC SUNBIRD",
     "tier": "未定",
-    "attributes": ["CN", "同時連打"]
+    "attributes": [
+      "CN",
+      "同時連打"
+    ]
   },
   {
     "title": "Chemical Colours",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "MSS", "連皿"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "MSS",
+      "連皿"
+    ]
   },
   {
     "title": "CODE -CRiMSON-",
     "tier": "未定",
-    "attributes": ["MSS", "微縦連"]
+    "attributes": [
+      "MSS",
+      "微縦連"
+    ]
   },
   {
     "title": "CODE:2",
     "tier": "未定",
-    "attributes": ["微縦連"]
+    "attributes": [
+      "微縦連"
+    ]
   },
   {
     "title": "DAZZLE ATTACK",
     "tier": "未定",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Echoes of Sunfall",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "皿絡み", "後半難"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "皿絡み",
+      "後半難"
+    ]
   },
   {
     "title": "EDEN(L)",
     "tier": "未定",
-    "attributes": ["高密度", "同時", "皿", "軸押し", "終盤殺し"]
+    "attributes": [
+      "高密度",
+      "同時",
+      "皿",
+      "軸押し",
+      "終盤殺し"
+    ]
   },
   {
     "title": "ELYSIUM",
     "tier": "未定",
-    "attributes": ["CN", "連皿", "軸", "二重トリル"]
+    "attributes": [
+      "CN",
+      "連皿",
+      "軸",
+      "二重トリル"
+    ]
   },
   {
     "title": "Explorer feat. ぷにぷに電機(L)",
     "tier": "未定",
-    "attributes": ["乱打", "皿"]
+    "attributes": [
+      "乱打",
+      "皿"
+    ]
   },
   {
     "title": "Fiery Stallion",
     "tier": "未定",
-    "attributes": ["HCN", "HBSS", "階段"]
+    "attributes": [
+      "HCN",
+      "HBSS",
+      "階段"
+    ]
   },
   {
     "title": "Get Higher",
     "tier": "未定",
-    "attributes": ["CN", "軸", "終盤難"]
+    "attributes": [
+      "CN",
+      "軸",
+      "終盤難"
+    ]
   },
   {
     "title": "GloriosA",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "MSS", "皿絡み"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "MSS",
+      "皿絡み"
+    ]
   },
   {
     "title": "GLORIOUS HAMMER",
     "tier": "未定",
-    "attributes": ["CN", "螺旋階段", "二重階段"]
+    "attributes": [
+      "CN",
+      "螺旋階段",
+      "二重階段"
+    ]
   },
   {
     "title": "Hat Surprise (Season 3)",
     "tier": "未定",
-    "attributes": ["皿絡み", "同時押し"]
+    "attributes": [
+      "皿絡み",
+      "同時押し"
+    ]
   },
   {
     "title": "HIGH(L)",
     "tier": "未定",
-    "attributes": ["同時押し", "皿絡み"]
+    "attributes": [
+      "同時押し",
+      "皿絡み"
+    ]
   },
   {
     "title": "i-ii",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "階段", "二重トリル"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "階段",
+      "二重トリル"
+    ]
   },
   {
     "title": "IDOL syndrome.(L)",
     "tier": "未定",
-    "attributes": ["CN", "同時押し", "階段"]
+    "attributes": [
+      "CN",
+      "同時押し",
+      "階段"
+    ]
   },
   {
     "title": "INHERITANCE",
     "tier": "未定",
-    "attributes": ["CN", "乱打"]
+    "attributes": [
+      "CN",
+      "乱打"
+    ]
   },
   {
     "title": "Just Gimme",
     "tier": "未定",
-    "attributes": ["中盤難", "軸", "皿絡み"]
+    "attributes": [
+      "中盤難",
+      "軸",
+      "皿絡み"
+    ]
   },
   {
     "title": "Logic Board",
     "tier": "未定",
-    "attributes": ["同時"]
+    "attributes": [
+      "同時"
+    ]
   },
   {
     "title": "lowercase lifetime",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "皿同時", "要体力"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "皿同時",
+      "要体力"
+    ]
   },
   {
     "title": "Monkey Business",
     "tier": "未定",
-    "attributes": ["ソフラン", "CN", "BSS"]
+    "attributes": [
+      "ソフラン",
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "Mukade",
     "tier": "未定",
-    "attributes": ["CN", "高密度", "二重トリル"]
+    "attributes": [
+      "CN",
+      "高密度",
+      "二重トリル"
+    ]
   },
   {
     "title": "MVP",
     "tier": "未定",
-    "attributes": ["BSS", "皿絡み"]
+    "attributes": [
+      "BSS",
+      "皿絡み"
+    ]
   },
   {
     "title": "neogenesis(L)",
     "tier": "未定",
-    "attributes": ["乱打", "同時"]
+    "attributes": [
+      "乱打",
+      "同時"
+    ]
   },
   {
     "title": "out of disk space",
     "tier": "未定",
-    "attributes": ["CN", "軸", "皿絡み"]
+    "attributes": [
+      "CN",
+      "軸",
+      "皿絡み"
+    ]
   },
   {
     "title": "PILGRIM",
     "tier": "未定",
-    "attributes": ["BSS", "高速トリル"]
+    "attributes": [
+      "BSS",
+      "高速トリル"
+    ]
   },
   {
     "title": "Psychedelic Intelligence",
     "tier": "未定",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Raspberry Potion(feat.あれたん & ぎゃるのしん☆)",
     "tier": "未定",
-    "attributes": ["BSS", "トリル", "高速階段", "連皿"]
+    "attributes": [
+      "BSS",
+      "トリル",
+      "高速階段",
+      "連皿"
+    ]
   },
   {
     "title": "RAVE SYNDROME",
     "tier": "未定",
-    "attributes": ["BSS", "軸", "同時押し", "連皿"]
+    "attributes": [
+      "BSS",
+      "軸",
+      "同時押し",
+      "連皿"
+    ]
   },
   {
     "title": "Red Determination",
     "tier": "未定",
-    "attributes": ["CN", "MSS", "連皿"]
+    "attributes": [
+      "CN",
+      "MSS",
+      "連皿"
+    ]
   },
   {
     "title": "Scripted Connection⇒ N mix(L)",
     "tier": "未定",
-    "attributes": ["縦連", "同時", "階段", "トリル", "皿絡み"]
+    "attributes": [
+      "縦連",
+      "同時",
+      "階段",
+      "トリル",
+      "皿絡み"
+    ]
   },
   {
     "title": "See You Again",
     "tier": "未定",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "Show Me All Your Love",
     "tier": "未定",
-    "attributes": ["トリル", "階段"]
+    "attributes": [
+      "トリル",
+      "階段"
+    ]
   },
   {
     "title": "smooooch・∀・(L)",
     "tier": "未定",
-    "attributes": ["高難度", "同時", "連皿"]
+    "attributes": [
+      "高難度",
+      "同時",
+      "連皿"
+    ]
   },
   {
     "title": "Somnidiscotheque(H)",
     "tier": "未定",
-    "attributes": ["CN", "トリル"]
+    "attributes": [
+      "CN",
+      "トリル"
+    ]
   },
   {
     "title": "Space in Time",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "皿絡み", "トリル"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "皿絡み",
+      "トリル"
+    ]
   },
   {
     "title": "Speculation",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "MSS", "同時押し", "二重トリル", "二重階段"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "MSS",
+      "同時押し",
+      "二重トリル",
+      "二重階段"
+    ]
   },
   {
     "title": "squall",
     "tier": "未定",
-    "attributes": ["ズレ"]
+    "attributes": [
+      "ズレ"
+    ]
   },
   {
     "title": "STARLIGHT JUNCTION(L)",
     "tier": "未定",
-    "attributes": ["二重階段", "皿絡み"]
+    "attributes": [
+      "二重階段",
+      "皿絡み"
+    ]
   },
   {
     "title": "Stylus",
     "tier": "未定",
-    "attributes": ["二重階段", "軸"]
+    "attributes": [
+      "二重階段",
+      "軸"
+    ]
   },
   {
     "title": "Submerge Serenade",
     "tier": "未定",
-    "attributes": ["トリル", "皿絡み", "対称配置"]
+    "attributes": [
+      "トリル",
+      "皿絡み",
+      "対称配置"
+    ]
   },
   {
     "title": "Swing My Wonderland",
     "tier": "未定",
-    "attributes": ["階段", "皿同時"]
+    "attributes": [
+      "階段",
+      "皿同時"
+    ]
   },
   {
     "title": "T.R.O.L.L.",
     "tier": "未定",
-    "attributes": ["ソフラン", "連皿"]
+    "attributes": [
+      "ソフラン",
+      "連皿"
+    ]
   },
   {
     "title": "This Is Club Musik feat. 大久保紅葉",
     "tier": "未定",
-    "attributes": ["連皿", "連打"]
+    "attributes": [
+      "連皿",
+      "連打"
+    ]
   },
   {
     "title": "Time Distortion pt.2(IIDX Edit)",
     "tier": "未定",
-    "attributes": ["乱打", "微縦連"]
+    "attributes": [
+      "乱打",
+      "微縦連"
+    ]
   },
   {
     "title": "winkle 2 winkle",
     "tier": "未定",
-    "attributes": ["軸", "皿絡み"]
+    "attributes": [
+      "軸",
+      "皿絡み"
+    ]
   },
   {
     "title": "ZERO-ONE(L)",
     "tier": "未定",
-    "attributes": ["高密度", "ラス殺し"]
+    "attributes": [
+      "高密度",
+      "ラス殺し"
+    ]
   },
   {
     "title": "20XX",
     "tier": "未定",
-    "attributes": ["高密度"]
+    "attributes": [
+      "高密度"
+    ]
   },
   {
     "title": "アイドル(L)",
     "tier": "未定",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "えだまめカレークッキング",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "ハネリズム"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "ハネリズム"
+    ]
   },
   {
     "title": "オドループ(L)",
     "tier": "未定",
-    "attributes": ["同時押し", "トリル"]
+    "attributes": [
+      "同時押し",
+      "トリル"
+    ]
   },
   {
     "title": "雫",
     "tier": "未定",
-    "attributes": ["ソフラン", "ズレ", "ラス殺し"]
+    "attributes": [
+      "ソフラン",
+      "ズレ",
+      "ラス殺し"
+    ]
   },
   {
     "title": "たからもの(L)",
     "tier": "未定",
-    "attributes": ["同時押し", "皿絡み"]
+    "attributes": [
+      "同時押し",
+      "皿絡み"
+    ]
   },
   {
     "title": "断罪の一花",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "同時押し", "終盤難"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "同時押し",
+      "終盤難"
+    ]
   },
   {
     "title": "チェイスチェイスジョーカーズのうた (オニスタイルリミックス)",
     "tier": "未定",
-    "attributes": ["軸", "皿絡み"]
+    "attributes": [
+      "軸",
+      "皿絡み"
+    ]
   },
   {
     "title": "寝起きヤシの木",
     "tier": "未定",
-    "attributes": ["二重トリル", "同時押し", "皿絡み"]
+    "attributes": [
+      "二重トリル",
+      "同時押し",
+      "皿絡み"
+    ]
   },
   {
     "title": "パーフェクトイーター",
     "tier": "未定",
-    "attributes": ["CN", "皿絡み"]
+    "attributes": [
+      "CN",
+      "皿絡み"
+    ]
   },
   {
     "title": "ハオ",
     "tier": "未定",
-    "attributes": ["ソフラン", "二重階段", "同時押し"]
+    "attributes": [
+      "ソフラン",
+      "二重階段",
+      "同時押し"
+    ]
   },
   {
     "title": "爆ぜりゃんせ",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "連打", "階段", "同時押し"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "連打",
+      "階段",
+      "同時押し"
+    ]
   },
   {
     "title": "果たせぬ約束 ft. 小林マナ",
     "tier": "未定",
-    "attributes": ["同時押し", "局所難"]
+    "attributes": [
+      "同時押し",
+      "局所難"
+    ]
   },
   {
     "title": "ファイナルレター",
     "tier": "未定",
-    "attributes": ["CN", "BSS", "階段", "ズレ"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "階段",
+      "ズレ"
+    ]
   },
   {
     "title": "フォニイ",
     "tier": "未定",
-    "attributes": ["同時押し", "トリル"]
+    "attributes": [
+      "同時押し",
+      "トリル"
+    ]
   },
   {
     "title": "マーシャル・マキシマイザー",
     "tier": "未定",
-    "attributes": ["逆詐称"]
+    "attributes": [
+      "逆詐称"
+    ]
   },
   {
     "title": "無双",
     "tier": "未定",
-    "attributes": ["同時押し"]
+    "attributes": [
+      "同時押し"
+    ]
   },
   {
     "title": "めうめうぺったんたん！！ (ZAQUVA Remix)",
     "tier": "未定",
-    "attributes": ["同時押し", "連打"]
+    "attributes": [
+      "同時押し",
+      "連打"
+    ]
   },
   {
     "title": "メズマライザー",
     "tier": "未定",
-    "attributes": ["CN", "軸", "トリル"]
+    "attributes": [
+      "CN",
+      "軸",
+      "トリル"
+    ]
   },
   {
     "title": "夢縁",
     "tier": "未定",
-    "attributes": ["軸", "階段"]
+    "attributes": [
+      "軸",
+      "階段"
+    ]
   },
   {
     "title": "ラビットホール",
     "tier": "未定",
-    "attributes": ["トリル"]
+    "attributes": [
+      "トリル"
+    ]
   },
   {
     "title": "惑星☆ロリポップ",
     "tier": "未定",
-    "attributes": ["皿同時", "ラス殺し"]
+    "attributes": [
+      "皿同時",
+      "ラス殺し"
+    ]
   },
   {
     "title": "V2",
     "tier": "地力S+",
-    "attributes": ["デニム", "中盤発狂", "HARD地雷", "詐称曲"]
+    "attributes": [
+      "デニム",
+      "中盤発狂",
+      "HARD地雷",
+      "詐称曲"
+    ]
   },
   {
     "title": "花冠 feat.Aikapin",
     "tier": "地力S+",
-    "attributes": ["ソフラン", "連皿", "ラス殺し"]
+    "attributes": [
+      "ソフラン",
+      "連皿",
+      "ラス殺し"
+    ]
   },
   {
     "title": "卑弥呼(H)",
     "tier": "地力S+",
-    "attributes": ["ソフラン", "階段", "縦連", "HARD地雷"]
+    "attributes": [
+      "ソフラン",
+      "階段",
+      "縦連",
+      "HARD地雷"
+    ]
   },
   {
     "title": "naughty girl@Queen's Palace(L)",
     "tier": "個人差S+",
-    "attributes": ["連皿", "皿絡み"]
+    "attributes": [
+      "連皿",
+      "皿絡み"
+    ]
   },
   {
     "title": "SAMURAI-Scramble",
     "tier": "個人差S+",
-    "attributes": ["連皿"]
+    "attributes": [
+      "連皿"
+    ]
   },
   {
     "title": "Theory",
     "tier": "個人差S+",
-    "attributes": ["ソフラン", "連皿"]
+    "attributes": [
+      "ソフラン",
+      "連皿"
+    ]
   },
   {
     "title": "ベィスドロップ・フリークス(L)",
     "tier": "個人差S+",
-    "attributes": ["BSS", "MSS", "連皿", "詐称"]
+    "attributes": [
+      "BSS",
+      "MSS",
+      "連皿",
+      "詐称"
+    ]
   },
   {
     "title": "Bahram Attack-猫叉Master Remix-(L)",
     "tier": "地力S",
-    "attributes": ["詐称曲", "高密度", "皿絡み"]
+    "attributes": [
+      "詐称曲",
+      "高密度",
+      "皿絡み"
+    ]
   },
   {
     "title": "Chrono Diver -PENDULUMs-(H)",
     "tier": "地力S",
-    "attributes": ["同時", "階段", "中盤発狂"]
+    "attributes": [
+      "同時",
+      "階段",
+      "中盤発狂"
+    ]
   },
   {
     "title": "Critical Crystal",
     "tier": "地力S",
-    "attributes": ["CN", "連皿", "対称", "軸", "詐称"]
+    "attributes": [
+      "CN",
+      "連皿",
+      "対称",
+      "軸",
+      "詐称"
+    ]
   },
   {
     "title": "four pieces of heaven",
     "tier": "地力S",
-    "attributes": ["階段", "皿絡み", "高密度", "ソフラン", "HARD地雷"]
+    "attributes": [
+      "階段",
+      "皿絡み",
+      "高密度",
+      "ソフラン",
+      "HARD地雷"
+    ]
   },
   {
     "title": "HYPE THE CORE",
     "tier": "地力S",
-    "attributes": ["詐称曲", "皿絡み", "HARD核地雷"]
+    "attributes": [
+      "詐称曲",
+      "皿絡み",
+      "HARD核地雷"
+    ]
   },
   {
     "title": "Necroxis Girl",
     "tier": "地力S",
-    "attributes": ["皿複合", "縦連打", "CN", "終盤難"]
+    "attributes": [
+      "皿複合",
+      "縦連打",
+      "CN",
+      "終盤難"
+    ]
   },
   {
     "title": "RUGGED ASH(L)",
     "tier": "地力S",
-    "attributes": ["ズレ", "皿絡み", "高密度", "HARD地雷"]
+    "attributes": [
+      "ズレ",
+      "皿絡み",
+      "高密度",
+      "HARD地雷"
+    ]
   },
   {
     "title": "SCHWARZSCHILD FIELD",
     "tier": "地力S",
-    "attributes": ["中盤発狂", "HARD地雷"]
+    "attributes": [
+      "中盤発狂",
+      "HARD地雷"
+    ]
   },
   {
     "title": "UMMU",
     "tier": "地力S",
-    "attributes": ["乱打", "CN", "BSS", "連皿", "全体難"]
+    "attributes": [
+      "乱打",
+      "CN",
+      "BSS",
+      "連皿",
+      "全体難"
+    ]
   },
   {
     "title": "Wanna Party?(L)",
     "tier": "地力S",
-    "attributes": ["乱打", "高密度"]
+    "attributes": [
+      "乱打",
+      "高密度"
+    ]
   },
   {
     "title": "3V0",
     "tier": "地力S",
-    "attributes": ["前半難", "皿絡み", "トリル", "CN"]
+    "attributes": [
+      "前半難",
+      "皿絡み",
+      "トリル",
+      "CN"
+    ]
   },
   {
     "title": "BRAINSTORM",
     "tier": "個人差S",
-    "attributes": ["乱打", "連皿", "HARD地雷"]
+    "attributes": [
+      "乱打",
+      "連皿",
+      "HARD地雷"
+    ]
   },
   {
     "title": "D",
     "tier": "個人差S",
-    "attributes": ["CN", "ソフラン", "縦連"]
+    "attributes": [
+      "CN",
+      "ソフラン",
+      "縦連"
+    ]
   },
   {
     "title": "DIAMOND JACKAL",
     "tier": "個人差S",
-    "attributes": ["軸", "連皿", "同時押し", "局所難"]
+    "attributes": [
+      "軸",
+      "連皿",
+      "同時押し",
+      "局所難"
+    ]
   },
   {
     "title": "Golden Palms(L)",
     "tier": "個人差S",
-    "attributes": ["HCN", "BSS", "HARD地雷"]
+    "attributes": [
+      "HCN",
+      "BSS",
+      "HARD地雷"
+    ]
   },
   {
     "title": "Hydrogen Blueback(L)",
     "tier": "個人差S",
-    "attributes": ["連皿", "皿複合"]
+    "attributes": [
+      "連皿",
+      "皿複合"
+    ]
   },
   {
     "title": "IDC feat.REVERBEE (Mo'Cuts Ver)",
     "tier": "個人差S",
-    "attributes": ["連皿"]
+    "attributes": [
+      "連皿"
+    ]
   },
   {
     "title": "Just a Little Smile",
     "tier": "個人差S",
-    "attributes": ["連皿", "皿絡み", "ラス殺し"]
+    "attributes": [
+      "連皿",
+      "皿絡み",
+      "ラス殺し"
+    ]
   },
   {
     "title": "MENTAL MELTDOWN",
     "tier": "個人差S",
-    "attributes": ["デニム", "皿複合", "白壁", "中盤発狂", "HARD地雷"]
+    "attributes": [
+      "デニム",
+      "皿複合",
+      "白壁",
+      "中盤発狂",
+      "HARD地雷"
+    ]
   },
   {
     "title": "SABER WING",
     "tier": "個人差S",
-    "attributes": ["同時", "ソフラン"]
+    "attributes": [
+      "同時",
+      "ソフラン"
+    ]
   },
   {
     "title": "VOLCANIC BIGBEAT",
     "tier": "個人差S",
-    "attributes": ["連皿", "ラス殺し"]
+    "attributes": [
+      "連皿",
+      "ラス殺し"
+    ]
   },
   {
     "title": "ALBA -黎明-",
     "tier": "地力A",
-    "attributes": ["CN", "高密度", "皿絡み"]
+    "attributes": [
+      "CN",
+      "高密度",
+      "皿絡み"
+    ]
   },
   {
     "title": "B4U(BEMANI FOR YOU MIX)",
     "tier": "地力A",
-    "attributes": ["物量", "同時", "皿複合", "要体力"]
+    "attributes": [
+      "物量",
+      "同時",
+      "皿複合",
+      "要体力"
+    ]
   },
   {
     "title": "Battle Train -IIDX Edition-",
     "tier": "地力A",
-    "attributes": ["高密度", "乱打", "高速トリル", "皿複合"]
+    "attributes": [
+      "高密度",
+      "乱打",
+      "高速トリル",
+      "皿複合"
+    ]
   },
   {
     "title": "Be OK(L)",
     "tier": "地力A",
-    "attributes": ["階段", "皿絡み"]
+    "attributes": [
+      "階段",
+      "皿絡み"
+    ]
   },
   {
     "title": "BLOCKS",
     "tier": "地力A",
-    "attributes": ["縦連", "トリル", "ラス殺し"]
+    "attributes": [
+      "縦連",
+      "トリル",
+      "ラス殺し"
+    ]
   },
   {
     "title": "bloomin' feeling",
     "tier": "地力A",
-    "attributes": ["高難度", "CN", "乱打"]
+    "attributes": [
+      "高難度",
+      "CN",
+      "乱打"
+    ]
   },
   {
     "title": "C-C-C-N-N-N",
     "tier": "地力A",
-    "attributes": ["連皿", "ソフラン"]
+    "attributes": [
+      "連皿",
+      "ソフラン"
+    ]
   },
   {
     "title": "COSMIC CYBER",
     "tier": "地力A",
-    "attributes": ["高密度", "乱打", "皿絡み"]
+    "attributes": [
+      "高密度",
+      "乱打",
+      "皿絡み"
+    ]
   },
   {
     "title": "Eine Haube ～聖地の果てにあるもの～",
     "tier": "地力A",
-    "attributes": ["中盤発狂", "階段"]
+    "attributes": [
+      "中盤発狂",
+      "階段"
+    ]
   },
   {
     "title": "EMERALDAS(H)",
     "tier": "地力A",
-    "attributes": ["HCN", "BSS", "ソフラン", "トリル", "連皿"]
+    "attributes": [
+      "HCN",
+      "BSS",
+      "ソフラン",
+      "トリル",
+      "連皿"
+    ]
   },
   {
     "title": "examination leave",
     "tier": "地力A",
-    "attributes": ["高密度"]
+    "attributes": [
+      "高密度"
+    ]
   },
   {
     "title": "Game Changers",
     "tier": "地力A",
-    "attributes": ["ソフラン"]
+    "attributes": [
+      "ソフラン"
+    ]
   },
   {
     "title": "GENOCIDE",
     "tier": "地力A",
-    "attributes": ["トリル", "乱打", "同時", "皿複合", "HARD地雷"]
+    "attributes": [
+      "トリル",
+      "乱打",
+      "同時",
+      "皿複合",
+      "HARD地雷"
+    ]
   },
   {
     "title": "GIGANT(L)",
     "tier": "地力A",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "HAPPY★RUSH",
     "tier": "地力A",
-    "attributes": ["階段", "皿複合", "縦連"]
+    "attributes": [
+      "階段",
+      "皿複合",
+      "縦連"
+    ]
   },
   {
     "title": "Illegal Function Call",
     "tier": "地力A",
-    "attributes": ["縦連", "トリル", "階段", "高速"]
+    "attributes": [
+      "縦連",
+      "トリル",
+      "階段",
+      "高速"
+    ]
   },
   {
     "title": "Journey(L)",
     "tier": "地力A",
-    "attributes": ["物量", "同時押し"]
+    "attributes": [
+      "物量",
+      "同時押し"
+    ]
   },
   {
     "title": "Jungle Eater",
     "tier": "地力A",
-    "attributes": ["皿複合", "二重トリル"]
+    "attributes": [
+      "皿複合",
+      "二重トリル"
+    ]
   },
   {
     "title": "kors k's How to make OTOGE CORE",
     "tier": "地力A",
-    "attributes": ["ソフラン", "ラス殺し"]
+    "attributes": [
+      "ソフラン",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Let The Track Flow",
     "tier": "地力A",
-    "attributes": ["トリル", "中盤発狂"]
+    "attributes": [
+      "トリル",
+      "中盤発狂"
+    ]
   },
   {
     "title": "Macuilxochitl",
     "tier": "地力A",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "MAXIVCORD",
     "tier": "地力A",
-    "attributes": ["乱打", "ラス殺し"]
+    "attributes": [
+      "乱打",
+      "ラス殺し"
+    ]
   },
   {
     "title": "New Decade IIDX Edition",
     "tier": "地力A",
-    "attributes": ["高密度", "高速"]
+    "attributes": [
+      "高密度",
+      "高速"
+    ]
   },
   {
     "title": "Night! Night! Night!",
     "tier": "地力A",
-    "attributes": ["乱打", "皿複合"]
+    "attributes": [
+      "乱打",
+      "皿複合"
+    ]
   },
   {
     "title": "On the FM",
     "tier": "地力A",
-    "attributes": ["軸", "同時", "縦連", "前半難", "HARD地雷"]
+    "attributes": [
+      "軸",
+      "同時",
+      "縦連",
+      "前半難",
+      "HARD地雷"
+    ]
   },
   {
     "title": "perditus†paradisus(H)",
     "tier": "地力A",
-    "attributes": ["高難度", "CN", "ラス殺し", "詐称曲"]
+    "attributes": [
+      "高難度",
+      "CN",
+      "ラス殺し",
+      "詐称曲"
+    ]
   },
   {
     "title": "POLKAMANIA",
     "tier": "地力A",
-    "attributes": ["CN", "皿絡み"]
+    "attributes": [
+      "CN",
+      "皿絡み"
+    ]
   },
   {
     "title": "Pollinosis",
     "tier": "地力A",
-    "attributes": ["トリル", "皿複合", "同時", "前半難", "全押し"]
+    "attributes": [
+      "トリル",
+      "皿複合",
+      "同時",
+      "前半難",
+      "全押し"
+    ]
   },
   {
     "title": "POODLE(L)",
     "tier": "地力A",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "ROCK女 feat. 大山愛未， Ken",
     "tier": "地力A",
-    "attributes": ["ハネリズム", "皿複合", "CN"]
+    "attributes": [
+      "ハネリズム",
+      "皿複合",
+      "CN"
+    ]
   },
   {
     "title": "Sarutobi Champion is 拙者",
     "tier": "地力A",
-    "attributes": ["ソフラン", "皿絡み", "階段"]
+    "attributes": [
+      "ソフラン",
+      "皿絡み",
+      "階段"
+    ]
   },
   {
     "title": "Sense 2007(H)",
     "tier": "地力A",
-    "attributes": ["トリル", "皿複合", "局所難", "ラス殺し", "詐称曲"]
+    "attributes": [
+      "トリル",
+      "皿複合",
+      "局所難",
+      "ラス殺し",
+      "詐称曲"
+    ]
   },
   {
     "title": "Star Trail(L)",
     "tier": "地力A",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "STEEL NEEDLE",
     "tier": "地力A",
-    "attributes": ["トリル", "乱打", "同時押し", "前半難", "HARD地雷"]
+    "attributes": [
+      "トリル",
+      "乱打",
+      "同時押し",
+      "前半難",
+      "HARD地雷"
+    ]
   },
   {
     "title": "Swarm Of Scarabs",
     "tier": "地力A",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "Tail Lights",
     "tier": "地力A",
-    "attributes": ["24分トリル"]
+    "attributes": [
+      "24分トリル"
+    ]
   },
   {
     "title": "THE BLACK KNIGHT",
     "tier": "地力A",
-    "attributes": ["CN", "中盤発狂", "HARD地雷"]
+    "attributes": [
+      "CN",
+      "中盤発狂",
+      "HARD地雷"
+    ]
   },
   {
     "title": "TRANOID",
     "tier": "地力A",
-    "attributes": ["同時", "階段", "トリル", "ソフラン", "中盤発狂", "HARD地雷"]
+    "attributes": [
+      "同時",
+      "階段",
+      "トリル",
+      "ソフラン",
+      "中盤発狂",
+      "HARD地雷"
+    ]
   },
   {
     "title": "tripping contact(teranoid&MC Natsack Remix)",
     "tier": "地力A",
-    "attributes": ["軸", "終盤難"]
+    "attributes": [
+      "軸",
+      "終盤難"
+    ]
   },
   {
     "title": "VALLIS-NERIA",
     "tier": "地力A",
-    "attributes": ["CN", "高密度", "微縦連", "HARD地雷"]
+    "attributes": [
+      "CN",
+      "高密度",
+      "微縦連",
+      "HARD地雷"
+    ]
   },
   {
     "title": "WISE UP!(L)",
     "tier": "地力A",
-    "attributes": ["同時押し"]
+    "attributes": [
+      "同時押し"
+    ]
   },
   {
     "title": "Wolf 1061",
     "tier": "地力A",
-    "attributes": ["乱打", "CN", "高密度"]
+    "attributes": [
+      "乱打",
+      "CN",
+      "高密度"
+    ]
   },
   {
     "title": "You'll say \"Now!\"",
     "tier": "地力A",
-    "attributes": ["高密度", "軸", "皿絡み", "ラス殺し", "詐称曲"]
+    "attributes": [
+      "高密度",
+      "軸",
+      "皿絡み",
+      "ラス殺し",
+      "詐称曲"
+    ]
   },
   {
     "title": "ZETA～素数の世界と超越者～",
     "tier": "地力A",
-    "attributes": ["高密度", "階段", "同時", "ソフラン", "後半難"]
+    "attributes": [
+      "高密度",
+      "階段",
+      "同時",
+      "ソフラン",
+      "後半難"
+    ]
   },
   {
     "title": "1st Samurai",
     "tier": "地力A",
-    "attributes": ["皿複合", "前半難", "ソフラン"]
+    "attributes": [
+      "皿複合",
+      "前半難",
+      "ソフラン"
+    ]
   },
   {
     "title": "532nm",
     "tier": "地力A",
-    "attributes": ["高密度", "乱打", "トリル"]
+    "attributes": [
+      "高密度",
+      "乱打",
+      "トリル"
+    ]
   },
   {
     "title": "青の洞窟",
     "tier": "地力A",
-    "attributes": ["トリル"]
+    "attributes": [
+      "トリル"
+    ]
   },
   {
     "title": "& Intelligence",
     "tier": "地力A",
-    "attributes": ["乱打", "皿複合", "連皿", "CN", "全体難"]
+    "attributes": [
+      "乱打",
+      "皿複合",
+      "連皿",
+      "CN",
+      "全体難"
+    ]
   },
   {
     "title": "《GRANDMASTER》",
     "tier": "地力A",
-    "attributes": ["CN", "BSS", "高密度"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "高密度"
+    ]
   },
   {
     "title": "旅人リラン",
     "tier": "地力A",
-    "attributes": ["縦連", "同時押し", "中盤発狂"]
+    "attributes": [
+      "縦連",
+      "同時押し",
+      "中盤発狂"
+    ]
   },
   {
     "title": "ドッキン☆サマーあばんちゅーる",
     "tier": "地力A",
-    "attributes": ["連皿", "トリル", "HARD地雷"]
+    "attributes": [
+      "連皿",
+      "トリル",
+      "HARD地雷"
+    ]
   },
   {
     "title": "乱膳の舞姫",
     "tier": "地力A",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "錬成人間トリコロイダー",
     "tier": "地力A",
-    "attributes": ["軸"]
+    "attributes": [
+      "軸"
+    ]
   },
   {
     "title": "Acid Pumper",
     "tier": "個人差A",
-    "attributes": ["HCN", "BSS", "連皿", "ラス殺し", "難地雷"]
+    "attributes": [
+      "HCN",
+      "BSS",
+      "連皿",
+      "ラス殺し",
+      "難地雷"
+    ]
   },
   {
     "title": "Beastie Starter",
     "tier": "個人差A",
-    "attributes": ["トリル", "軸", "HARD地雷"]
+    "attributes": [
+      "トリル",
+      "軸",
+      "HARD地雷"
+    ]
   },
   {
     "title": "Beat Juggling Mix",
     "tier": "個人差A",
-    "attributes": ["ソフラン", "連皿"]
+    "attributes": [
+      "ソフラン",
+      "連皿"
+    ]
   },
   {
     "title": "Bounce Bounce Bounce",
     "tier": "個人差A",
-    "attributes": ["縦連", "連皿"]
+    "attributes": [
+      "縦連",
+      "連皿"
+    ]
   },
   {
     "title": "Dawn Saga",
     "tier": "個人差A",
-    "attributes": ["HCN"]
+    "attributes": [
+      "HCN"
+    ]
   },
   {
     "title": "Do it!! Do it!!",
     "tier": "個人差A",
-    "attributes": ["トリル", "軸", "皿", "高難度"]
+    "attributes": [
+      "トリル",
+      "軸",
+      "皿",
+      "高難度"
+    ]
   },
   {
     "title": "EXODUS SIGN",
     "tier": "個人差A",
-    "attributes": ["MSS", "BSS", "CN", "連皿", "皿複合"]
+    "attributes": [
+      "MSS",
+      "BSS",
+      "CN",
+      "連皿",
+      "皿複合"
+    ]
   },
   {
     "title": "Funny shuffle",
     "tier": "個人差A",
-    "attributes": ["連皿", "ズレ同時", "HARD地雷"]
+    "attributes": [
+      "連皿",
+      "ズレ同時",
+      "HARD地雷"
+    ]
   },
   {
     "title": "FUTURE is Dead",
     "tier": "個人差A",
-    "attributes": ["ソフラン", "ハネリズム"]
+    "attributes": [
+      "ソフラン",
+      "ハネリズム"
+    ]
   },
   {
     "title": "G2",
     "tier": "個人差A",
-    "attributes": ["軸", "微縦連", "トリル", "後半難"]
+    "attributes": [
+      "軸",
+      "微縦連",
+      "トリル",
+      "後半難"
+    ]
   },
   {
     "title": "In the Blackest Den",
     "tier": "個人差A",
-    "attributes": ["階段", "連皿", "詐称"]
+    "attributes": [
+      "階段",
+      "連皿",
+      "詐称"
+    ]
   },
   {
     "title": "Kailua",
     "tier": "個人差A",
-    "attributes": ["CN", "皿複合", "トリル", "HARD地雷"]
+    "attributes": [
+      "CN",
+      "皿複合",
+      "トリル",
+      "HARD地雷"
+    ]
   },
   {
     "title": "m1dy Deluxe",
     "tier": "個人差A",
-    "attributes": ["連皿", "軸", "高速", "HARD地雷"]
+    "attributes": [
+      "連皿",
+      "軸",
+      "高速",
+      "HARD地雷"
+    ]
   },
   {
     "title": "nostos",
     "tier": "個人差A",
-    "attributes": ["ソフラン", "階段", "縦連", "ズレ"]
+    "attributes": [
+      "ソフラン",
+      "階段",
+      "縦連",
+      "ズレ"
+    ]
   },
   {
     "title": "of the first magnitude",
     "tier": "個人差A",
-    "attributes": ["HCN"]
+    "attributes": [
+      "HCN"
+    ]
   },
   {
     "title": "OVER VOLTAGE",
     "tier": "個人差A",
-    "attributes": ["連皿", "HCN", "HBSS"]
+    "attributes": [
+      "連皿",
+      "HCN",
+      "HBSS"
+    ]
   },
   {
     "title": "Overload Frontier",
     "tier": "個人差A",
-    "attributes": ["前半難", "皿複合", "HARD地雷"]
+    "attributes": [
+      "前半難",
+      "皿複合",
+      "HARD地雷"
+    ]
   },
   {
     "title": "Psycho Sheep Riddim(L)",
     "tier": "個人差A",
-    "attributes": ["CN", "BSS", "MSS"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "MSS"
+    ]
   },
   {
     "title": "rough percussionythm",
     "tier": "個人差A",
-    "attributes": ["CN", "連皿"]
+    "attributes": [
+      "CN",
+      "連皿"
+    ]
   },
   {
     "title": "Routing",
     "tier": "個人差A",
-    "attributes": ["連皿", "微階段", "HARD地雷"]
+    "attributes": [
+      "連皿",
+      "微階段",
+      "HARD地雷"
+    ]
   },
   {
     "title": "Sinus Iridum(H)",
     "tier": "個人差A",
-    "attributes": ["CN", "ソフラン"]
+    "attributes": [
+      "CN",
+      "ソフラン"
+    ]
   },
   {
     "title": "Souhait bleu",
     "tier": "個人差A",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "Spica",
     "tier": "個人差A",
-    "attributes": ["階段", "縦連同時", "中盤発狂", "HARD地雷", "詐称曲"]
+    "attributes": [
+      "階段",
+      "縦連同時",
+      "中盤発狂",
+      "HARD地雷",
+      "詐称曲"
+    ]
   },
   {
     "title": "Usual Days-remix",
     "tier": "個人差A",
-    "attributes": ["トリル", "皿"]
+    "attributes": [
+      "トリル",
+      "皿"
+    ]
   },
   {
     "title": "VOX UP(H)",
     "tier": "個人差A",
-    "attributes": ["高速トリル", "連皿", "前半難", "ラス殺し", "HARD地雷"]
+    "attributes": [
+      "高速トリル",
+      "連皿",
+      "前半難",
+      "ラス殺し",
+      "HARD地雷"
+    ]
   },
   {
     "title": "Zenith",
     "tier": "個人差A",
-    "attributes": ["CN", "ズレ"]
+    "attributes": [
+      "CN",
+      "ズレ"
+    ]
   },
   {
     "title": "10000 MILES AWAY",
     "tier": "個人差A",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "X-DEN(H)",
     "tier": "個人差A",
-    "attributes": ["トリル", "連皿", "中盤難"]
+    "attributes": [
+      "トリル",
+      "連皿",
+      "中盤難"
+    ]
   },
   {
     "title": "蛇神",
     "tier": "個人差A",
-    "attributes": ["CN", "トリル", "後半難"]
+    "attributes": [
+      "CN",
+      "トリル",
+      "後半難"
+    ]
   },
   {
     "title": "カジノファイヤーことみちゃん",
     "tier": "個人差A",
-    "attributes": ["BSS", "CN＋連皿"]
+    "attributes": [
+      "BSS",
+      "CN＋連皿"
+    ]
   },
   {
     "title": "灼熱 Pt.2 Long Train Running(H)",
     "tier": "個人差A",
-    "attributes": ["連皿"]
+    "attributes": [
+      "連皿"
+    ]
   },
   {
     "title": "もっと！モット！ときめき feat. 松下",
     "tier": "個人差A",
-    "attributes": ["階段", "微CN", "皿絡み", "局所難", "HARD地雷"]
+    "attributes": [
+      "階段",
+      "微CN",
+      "皿絡み",
+      "局所難",
+      "HARD地雷"
+    ]
   },
   {
     "title": "ABSOLUTE(L)",
     "tier": "地力B",
-    "attributes": ["HCN", "乱打"]
+    "attributes": [
+      "HCN",
+      "乱打"
+    ]
   },
   {
     "title": "ABSOLUTE (kors k Remix)",
     "tier": "地力B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "Advent Infamous",
     "tier": "地力B",
-    "attributes": ["HCN", "BSS"]
+    "attributes": [
+      "HCN",
+      "BSS"
+    ]
   },
   {
     "title": "Aegis",
     "tier": "地力B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "Afterimage d'automne",
     "tier": "地力B",
-    "attributes": ["CN", "ハネリズム", "同時押し", "階段", "皿絡み"]
+    "attributes": [
+      "CN",
+      "ハネリズム",
+      "同時押し",
+      "階段",
+      "皿絡み"
+    ]
   },
   {
     "title": "AGEHA(L)",
     "tier": "地力B",
-    "attributes": ["CN", "皿複合"]
+    "attributes": [
+      "CN",
+      "皿複合"
+    ]
   },
   {
     "title": "AsiaN distractive",
     "tier": "地力B",
-    "attributes": ["乱打", "二重階段", "ラスト減速"]
+    "attributes": [
+      "乱打",
+      "二重階段",
+      "ラスト減速"
+    ]
   },
   {
     "title": "Be a Hero!",
     "tier": "地力B",
-    "attributes": ["皿複合", "階段", "トリル"]
+    "attributes": [
+      "皿複合",
+      "階段",
+      "トリル"
+    ]
   },
   {
     "title": "Beyond The Earth",
     "tier": "地力B",
-    "attributes": ["皿複合", "高密度"]
+    "attributes": [
+      "皿複合",
+      "高密度"
+    ]
   },
   {
     "title": "Bow shock!!",
     "tier": "地力B",
-    "attributes": ["隣接階段", "同時押し"]
+    "attributes": [
+      "隣接階段",
+      "同時押し"
+    ]
   },
   {
     "title": "BroGamer",
     "tier": "地力B",
-    "attributes": ["同時押し", "皿複合", "ラス殺し"]
+    "attributes": [
+      "同時押し",
+      "皿複合",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Buffalo(L)",
     "tier": "地力B",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "CaptivAte2～覚醒～",
     "tier": "地力B",
-    "attributes": ["ラス殺し"]
+    "attributes": [
+      "ラス殺し"
+    ]
   },
   {
     "title": "Castle on the Moon",
     "tier": "地力B",
-    "attributes": ["高密度", "ラス殺し"]
+    "attributes": [
+      "高密度",
+      "ラス殺し"
+    ]
   },
   {
     "title": "chaos eater -IIDX edition-",
     "tier": "地力B",
-    "attributes": ["軸", "同時押し"]
+    "attributes": [
+      "軸",
+      "同時押し"
+    ]
   },
   {
     "title": "ChaserXX",
     "tier": "地力B",
-    "attributes": ["乱打", "皿絡み", "高速トリル", "ズレ"]
+    "attributes": [
+      "乱打",
+      "皿絡み",
+      "高速トリル",
+      "ズレ"
+    ]
   },
   {
     "title": "CHRONO DIVER -NORNIR-",
     "tier": "地力B",
-    "attributes": ["要体力"]
+    "attributes": [
+      "要体力"
+    ]
   },
   {
     "title": "Chronos(L)",
     "tier": "地力B",
-    "attributes": ["物量", "CN"]
+    "attributes": [
+      "物量",
+      "CN"
+    ]
   },
   {
     "title": "Cookie Bouquets",
     "tier": "地力B",
-    "attributes": ["要体力"]
+    "attributes": [
+      "要体力"
+    ]
   },
   {
     "title": "Crazy Jackpot",
     "tier": "地力B",
-    "attributes": ["トリル", "二重階段"]
+    "attributes": [
+      "トリル",
+      "二重階段"
+    ]
   },
   {
     "title": "DESIRE",
     "tier": "地力B",
-    "attributes": ["乱打", "終盤難"]
+    "attributes": [
+      "乱打",
+      "終盤難"
+    ]
   },
   {
     "title": "diagram",
     "tier": "地力B",
-    "attributes": ["二重階段", "連皿"]
+    "attributes": [
+      "二重階段",
+      "連皿"
+    ]
   },
   {
     "title": "Divine Heaven",
     "tier": "地力B",
-    "attributes": ["CN", "BSS", "二重トリル"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "二重トリル"
+    ]
   },
   {
     "title": "DROP",
     "tier": "地力B",
-    "attributes": ["トリル"]
+    "attributes": [
+      "トリル"
+    ]
   },
   {
     "title": "Ergosphere",
     "tier": "地力B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "Flash Back 90's(L)",
     "tier": "地力B",
-    "attributes": ["皿絡み", "ラス殺し"]
+    "attributes": [
+      "皿絡み",
+      "ラス殺し"
+    ]
   },
   {
     "title": "FLOWER",
     "tier": "地力B",
-    "attributes": ["CN", "BSS", "二重階段"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "二重階段"
+    ]
   },
   {
     "title": "FREEDOM",
     "tier": "地力B",
-    "attributes": ["皿複合", "終盤難"]
+    "attributes": [
+      "皿複合",
+      "終盤難"
+    ]
   },
   {
     "title": "GALGALIM",
     "tier": "地力B",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "Ganymede",
     "tier": "地力B",
-    "attributes": ["低速", "軸押し", "階段", "高密度"]
+    "attributes": [
+      "低速",
+      "軸押し",
+      "階段",
+      "高密度"
+    ]
   },
   {
     "title": "Garuda",
     "tier": "地力B",
-    "attributes": ["縦連打"]
+    "attributes": [
+      "縦連打"
+    ]
   },
   {
     "title": "GHOST",
     "tier": "地力B",
-    "attributes": ["開幕加速ソフラン"]
+    "attributes": [
+      "開幕加速ソフラン"
+    ]
   },
   {
     "title": "Giudecca",
     "tier": "地力B",
-    "attributes": ["乱打", "皿", "局所難", "ラス殺し"]
+    "attributes": [
+      "乱打",
+      "皿",
+      "局所難",
+      "ラス殺し"
+    ]
   },
   {
     "title": "GOBBLE",
     "tier": "地力B",
-    "attributes": ["縦連", "高密度"]
+    "attributes": [
+      "縦連",
+      "高密度"
+    ]
   },
   {
     "title": "Hello Happiness",
     "tier": "地力B",
-    "attributes": ["高速二重階段", "皿複合", "縦連"]
+    "attributes": [
+      "高速二重階段",
+      "皿複合",
+      "縦連"
+    ]
   },
   {
     "title": "Holic",
     "tier": "地力B",
-    "attributes": ["乱打", "同時", "微縦連", "ラス殺し"]
+    "attributes": [
+      "乱打",
+      "同時",
+      "微縦連",
+      "ラス殺し"
+    ]
   },
   {
     "title": "I will be back -オレは帰ってきた-",
     "tier": "地力B",
-    "attributes": ["BSS", "高密度"]
+    "attributes": [
+      "BSS",
+      "高密度"
+    ]
   },
   {
     "title": "I'm so Happy",
     "tier": "地力B",
-    "attributes": ["トリル", "ラス殺し"]
+    "attributes": [
+      "トリル",
+      "ラス殺し"
+    ]
   },
   {
     "title": "ILAYZA",
     "tier": "地力B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "in the Sky",
     "tier": "地力B",
-    "attributes": ["同時", "ラス殺し"]
+    "attributes": [
+      "同時",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Kung-fu Empire",
     "tier": "地力B",
-    "attributes": ["階段", "要体力"]
+    "attributes": [
+      "階段",
+      "要体力"
+    ]
   },
   {
     "title": "LAST DAY",
     "tier": "地力B",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Light and Cyber…",
     "tier": "地力B",
-    "attributes": ["階段"]
+    "attributes": [
+      "階段"
+    ]
   },
   {
     "title": "Lovely Howdy Cowboy!!",
     "tier": "地力B",
-    "attributes": ["CN", "皿絡み"]
+    "attributes": [
+      "CN",
+      "皿絡み"
+    ]
   },
   {
     "title": "MAGIC & LOVE",
     "tier": "地力B",
-    "attributes": ["高密度"]
+    "attributes": [
+      "高密度"
+    ]
   },
   {
     "title": "Modular Technology",
     "tier": "地力B",
-    "attributes": ["乱打", "連皿"]
+    "attributes": [
+      "乱打",
+      "連皿"
+    ]
   },
   {
     "title": "Move UR Body",
     "tier": "地力B",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "Moving on",
     "tier": "地力B",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "No.13",
     "tier": "地力B",
-    "attributes": ["前半難", "乱打", "対称", "皿複合"]
+    "attributes": [
+      "前半難",
+      "乱打",
+      "対称",
+      "皿複合"
+    ]
   },
   {
     "title": "Nocturnal 2097",
     "tier": "地力B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "OTOKOZAKA",
     "tier": "地力B",
-    "attributes": ["局所難", "トリル"]
+    "attributes": [
+      "局所難",
+      "トリル"
+    ]
   },
   {
     "title": "Outbreak",
     "tier": "地力B",
-    "attributes": ["高密度"]
+    "attributes": [
+      "高密度"
+    ]
   },
   {
     "title": "Overslept",
     "tier": "地力B",
-    "attributes": ["終盤難"]
+    "attributes": [
+      "終盤難"
+    ]
   },
   {
     "title": "PHASE SHIFT MANEUVER",
     "tier": "地力B",
-    "attributes": ["CN", "トリル"]
+    "attributes": [
+      "CN",
+      "トリル"
+    ]
   },
   {
     "title": "Playing With Fire",
     "tier": "地力B",
-    "attributes": ["皿複合", "CN"]
+    "attributes": [
+      "皿複合",
+      "CN"
+    ]
   },
   {
     "title": "Pout",
     "tier": "地力B",
-    "attributes": ["CN", "同時押し"]
+    "attributes": [
+      "CN",
+      "同時押し"
+    ]
   },
   {
     "title": "Queen Kaguya",
     "tier": "地力B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "Red Soul",
     "tier": "地力B",
-    "attributes": ["二重階段", "連皿"]
+    "attributes": [
+      "二重階段",
+      "連皿"
+    ]
   },
   {
     "title": "REVOLVER",
     "tier": "地力B",
-    "attributes": ["乱打", "皿複合", "階段"]
+    "attributes": [
+      "乱打",
+      "皿複合",
+      "階段"
+    ]
   },
   {
     "title": "Ritual of Anubis",
     "tier": "地力B",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "Rosa azuL",
     "tier": "地力B",
-    "attributes": ["乱打", "皿絡み"]
+    "attributes": [
+      "乱打",
+      "皿絡み"
+    ]
   },
   {
     "title": "Rubrum Piano",
     "tier": "地力B",
-    "attributes": ["二重乱打"]
+    "attributes": [
+      "二重乱打"
+    ]
   },
   {
     "title": "rumrum triplets",
     "tier": "地力B",
-    "attributes": ["階段", "乱打"]
+    "attributes": [
+      "階段",
+      "乱打"
+    ]
   },
   {
     "title": "S!ck",
     "tier": "地力B",
-    "attributes": ["トリル", "皿", "CN", "BSS"]
+    "attributes": [
+      "トリル",
+      "皿",
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "Saturn",
     "tier": "地力B",
-    "attributes": ["縦連", "ラス殺し"]
+    "attributes": [
+      "縦連",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Scars of FAUNA",
     "tier": "地力B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "Scharfrichter",
     "tier": "地力B",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "Session 1 -Genesis-",
     "tier": "地力B",
-    "attributes": ["CN", "ソフラン", "階段"]
+    "attributes": [
+      "CN",
+      "ソフラン",
+      "階段"
+    ]
   },
   {
     "title": "smile",
     "tier": "地力B",
-    "attributes": ["階段", "皿絡み", "中盤難", "1P正規地雷"]
+    "attributes": [
+      "階段",
+      "皿絡み",
+      "中盤難",
+      "1P正規地雷"
+    ]
   },
   {
     "title": "STELLAR WIND",
     "tier": "地力B",
-    "attributes": ["トリル", "ラス殺し", "EX-HARD地雷"]
+    "attributes": [
+      "トリル",
+      "ラス殺し",
+      "EX-HARD地雷"
+    ]
   },
   {
     "title": "stoic",
     "tier": "地力B",
-    "attributes": ["縦連", "乱打", "中盤難"]
+    "attributes": [
+      "縦連",
+      "乱打",
+      "中盤難"
+    ]
   },
   {
     "title": "THE CANNONBALLER",
     "tier": "地力B",
-    "attributes": ["要体力", "軸", "階段"]
+    "attributes": [
+      "要体力",
+      "軸",
+      "階段"
+    ]
   },
   {
     "title": "THE DEEP STRIKER",
     "tier": "地力B",
-    "attributes": ["同時押し", "微縦連", "全体難"]
+    "attributes": [
+      "同時押し",
+      "微縦連",
+      "全体難"
+    ]
   },
   {
     "title": "The Dirty of Loudness",
     "tier": "地力B",
-    "attributes": ["同時押し", "全押し", "乱打", "対称", "終盤難"]
+    "attributes": [
+      "同時押し",
+      "全押し",
+      "乱打",
+      "対称",
+      "終盤難"
+    ]
   },
   {
     "title": "THE FALLEN",
     "tier": "地力B",
-    "attributes": ["同時", "トリル", "皿複合"]
+    "attributes": [
+      "同時",
+      "トリル",
+      "皿複合"
+    ]
   },
   {
     "title": "the trigger of innocence(L)",
     "tier": "地力B",
-    "attributes": ["同時押し"]
+    "attributes": [
+      "同時押し"
+    ]
   },
   {
     "title": "Time to Air",
     "tier": "地力B",
-    "attributes": ["同時", "皿複合", "軸", "ラス殺し"]
+    "attributes": [
+      "同時",
+      "皿複合",
+      "軸",
+      "ラス殺し"
+    ]
   },
   {
     "title": "TITANS RETURN",
     "tier": "地力B",
-    "attributes": ["高密度"]
+    "attributes": [
+      "高密度"
+    ]
   },
   {
     "title": "UNDERWORLD HOLOGRAPHY",
     "tier": "地力B",
-    "attributes": ["体力"]
+    "attributes": [
+      "体力"
+    ]
   },
   {
     "title": "Unicorn tail",
     "tier": "地力B",
-    "attributes": ["局所難", "ラス殺し"]
+    "attributes": [
+      "局所難",
+      "ラス殺し"
+    ]
   },
   {
     "title": "VEGA",
     "tier": "地力B",
-    "attributes": ["BSS", "高密度"]
+    "attributes": [
+      "BSS",
+      "高密度"
+    ]
   },
   {
     "title": "Violet Rose",
     "tier": "地力B",
-    "attributes": ["縦連", "階段"]
+    "attributes": [
+      "縦連",
+      "階段"
+    ]
   },
   {
     "title": "waxing and wanding",
     "tier": "地力B",
-    "attributes": ["前半難", "同時押し", "軸押し", "中盤発狂", "ラス殺し"]
+    "attributes": [
+      "前半難",
+      "同時押し",
+      "軸押し",
+      "中盤発狂",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Welcome",
     "tier": "地力B",
-    "attributes": ["連皿", "軸押し", "皿複合", "HARD地雷"]
+    "attributes": [
+      "連皿",
+      "軸押し",
+      "皿複合",
+      "HARD地雷"
+    ]
   },
   {
     "title": "XENON II ～TOMOYUKIの野望～",
     "tier": "地力B",
-    "attributes": ["CN", "乱打"]
+    "attributes": [
+      "CN",
+      "乱打"
+    ]
   },
   {
     "title": "Xyndrome",
     "tier": "地力B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "yamabiko (SINOBUZ Edition)",
     "tier": "地力B",
-    "attributes": ["軸", "階段"]
+    "attributes": [
+      "軸",
+      "階段"
+    ]
   },
   {
     "title": "ZEИITH",
     "tier": "地力B",
-    "attributes": ["皿複合", "微縦連", "鍵盤全押し"]
+    "attributes": [
+      "皿複合",
+      "微縦連",
+      "鍵盤全押し"
+    ]
   },
   {
     "title": "24th Century BOY",
     "tier": "地力B",
-    "attributes": ["階段", "デニム"]
+    "attributes": [
+      "階段",
+      "デニム"
+    ]
   },
   {
     "title": "朝焼けから始まるボクらの小さな旅",
     "tier": "地力B",
-    "attributes": ["高速", "トリル", "階段", "ラス殺し"]
+    "attributes": [
+      "高速",
+      "トリル",
+      "階段",
+      "ラス殺し"
+    ]
   },
   {
     "title": "ウツシミウツシ",
     "tier": "地力B",
-    "attributes": ["トリル", "物量"]
+    "attributes": [
+      "トリル",
+      "物量"
+    ]
   },
   {
     "title": "禍根",
     "tier": "地力B",
-    "attributes": ["階段"]
+    "attributes": [
+      "階段"
+    ]
   },
   {
     "title": "≡+≡",
     "tier": "地力B",
-    "attributes": ["トリル", "同時押し", "軸"]
+    "attributes": [
+      "トリル",
+      "同時押し",
+      "軸"
+    ]
   },
   {
     "title": "シル・ヴ・プレジデント(L)",
     "tier": "地力B",
-    "attributes": ["同時押し", "皿複合", "局所発狂"]
+    "attributes": [
+      "同時押し",
+      "皿複合",
+      "局所発狂"
+    ]
   },
   {
     "title": "創世ノート",
     "tier": "地力B",
-    "attributes": ["乱打", "高密度"]
+    "attributes": [
+      "乱打",
+      "高密度"
+    ]
   },
   {
     "title": "追想快晴テーマパーク",
     "tier": "地力B",
-    "attributes": ["同時", "トリル", "微縦連"]
+    "attributes": [
+      "同時",
+      "トリル",
+      "微縦連"
+    ]
   },
   {
     "title": "月とミルク",
     "tier": "地力B",
-    "attributes": ["同時押し"]
+    "attributes": [
+      "同時押し"
+    ]
   },
   {
     "title": "デッドボヲルdeホームラン",
     "tier": "地力B",
-    "attributes": ["ズレ押し", "皿複合"]
+    "attributes": [
+      "ズレ押し",
+      "皿複合"
+    ]
   },
   {
     "title": "Ｘ↑Ｘ↓",
     "tier": "地力B",
-    "attributes": ["ラス殺し"]
+    "attributes": [
+      "ラス殺し"
+    ]
   },
   {
     "title": "儚き恋の華",
     "tier": "地力B",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "爆ゼニ☆がってんワーカー",
     "tier": "地力B",
-    "attributes": ["前半難"]
+    "attributes": [
+      "前半難"
+    ]
   },
   {
     "title": "ユミル",
     "tier": "地力B",
-    "attributes": ["階段", "皿複合", "後半難"]
+    "attributes": [
+      "階段",
+      "皿複合",
+      "後半難"
+    ]
   },
   {
     "title": "量子の海のリントヴルム",
     "tier": "地力B",
-    "attributes": ["階段", "CN", "縦連"]
+    "attributes": [
+      "階段",
+      "CN",
+      "縦連"
+    ]
   },
   {
     "title": "Abraxas",
     "tier": "個人差B",
-    "attributes": ["CN", "連皿", "トリル", "乱打"]
+    "attributes": [
+      "CN",
+      "連皿",
+      "トリル",
+      "乱打"
+    ]
   },
   {
     "title": "Almagest(H)",
     "tier": "個人差B",
-    "attributes": ["階段", "BSS", "CN＋階段"]
+    "attributes": [
+      "階段",
+      "BSS",
+      "CN＋階段"
+    ]
   },
   {
     "title": "Back Spin Sweeper",
     "tier": "個人差B",
-    "attributes": ["HBSS", "乱打"]
+    "attributes": [
+      "HBSS",
+      "乱打"
+    ]
   },
   {
     "title": "CHECKING YOU OUT",
     "tier": "個人差B",
-    "attributes": ["連皿", "ソフラン"]
+    "attributes": [
+      "連皿",
+      "ソフラン"
+    ]
   },
   {
     "title": "Get On Your Feet",
     "tier": "個人差B",
-    "attributes": ["CN", "BSS", "二重トリル"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "二重トリル"
+    ]
   },
   {
     "title": "HELL SCAPER -Last Escape Remix-",
     "tier": "個人差B",
-    "attributes": ["階段", "連皿", "皿絡み", "軸", "終盤難"]
+    "attributes": [
+      "階段",
+      "連皿",
+      "皿絡み",
+      "軸",
+      "終盤難"
+    ]
   },
   {
     "title": "LADYBIRD",
     "tier": "個人差B",
-    "attributes": ["ハネリズム", "皿複合"]
+    "attributes": [
+      "ハネリズム",
+      "皿複合"
+    ]
   },
   {
     "title": "naughty girl@Queen's Palace",
     "tier": "個人差B",
-    "attributes": ["連皿", "皿複合"]
+    "attributes": [
+      "連皿",
+      "皿複合"
+    ]
   },
   {
     "title": "NEMESIS",
     "tier": "個人差B",
-    "attributes": ["乱打", "軸押し", "中盤難"]
+    "attributes": [
+      "乱打",
+      "軸押し",
+      "中盤難"
+    ]
   },
   {
     "title": "Para siempre",
     "tier": "個人差B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "PARANOiA ～HADES～(H)",
     "tier": "個人差B",
-    "attributes": ["ソフラン"]
+    "attributes": [
+      "ソフラン"
+    ]
   },
   {
     "title": "Perfect Plan",
     "tier": "個人差B",
-    "attributes": ["CN", "ズレ", "皿絡み"]
+    "attributes": [
+      "CN",
+      "ズレ",
+      "皿絡み"
+    ]
   },
   {
     "title": "Rejection Girl",
     "tier": "個人差B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "THE SHINING POLARIS(kors k mix)",
     "tier": "個人差B",
-    "attributes": ["乱打", "皿絡み"]
+    "attributes": [
+      "乱打",
+      "皿絡み"
+    ]
   },
   {
     "title": "TRIP THE DEEP",
     "tier": "個人差B",
-    "attributes": ["連皿"]
+    "attributes": [
+      "連皿"
+    ]
   },
   {
     "title": "With You",
     "tier": "個人差B",
-    "attributes": ["連皿"]
+    "attributes": [
+      "連皿"
+    ]
   },
   {
     "title": "27th style",
     "tier": "個人差B",
-    "attributes": ["連皿"]
+    "attributes": [
+      "連皿"
+    ]
   },
   {
     "title": "《ORDERBREAKER》",
     "tier": "個人差B",
-    "attributes": ["CN", "BSS", "二重階段", "三重階段"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "二重階段",
+      "三重階段"
+    ]
   },
   {
     "title": "鬼天",
     "tier": "個人差B",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "響花水月",
     "tier": "個人差B",
-    "attributes": ["同時押し", "皿絡み", "三重階段"]
+    "attributes": [
+      "同時押し",
+      "皿絡み",
+      "三重階段"
+    ]
   },
   {
     "title": "とろぴかる倶楽部",
     "tier": "個人差B",
-    "attributes": ["皿複合", "後半難"]
+    "attributes": [
+      "皿複合",
+      "後半難"
+    ]
   },
   {
     "title": "ラクエン",
     "tier": "個人差B",
-    "attributes": ["連皿", "皿複合", "ソフラン"]
+    "attributes": [
+      "連皿",
+      "皿複合",
+      "ソフラン"
+    ]
   },
   {
     "title": "惑星鉄道(H)",
     "tier": "個人差B",
-    "attributes": ["CN", "ソフラン", "ズレ", "階段"]
+    "attributes": [
+      "CN",
+      "ソフラン",
+      "ズレ",
+      "階段"
+    ]
   },
   {
     "title": "ALL MY TURN -このターンに、オレの全てを賭ける-",
     "tier": "地力C",
-    "attributes": ["階段", "対称"]
+    "attributes": [
+      "階段",
+      "対称"
+    ]
   },
   {
     "title": "Amazing Mirage",
     "tier": "地力C",
-    "attributes": ["乱打", "皿絡み", "連皿", "縦連打"]
+    "attributes": [
+      "乱打",
+      "皿絡み",
+      "連皿",
+      "縦連打"
+    ]
   },
   {
     "title": "ANDROMEDA",
     "tier": "地力C",
-    "attributes": ["トリル", "ラス殺し"]
+    "attributes": [
+      "トリル",
+      "ラス殺し"
+    ]
   },
   {
     "title": "ANTHEM LANDING",
     "tier": "地力C",
-    "attributes": ["乱打", "軸", "ラス殺し"]
+    "attributes": [
+      "乱打",
+      "軸",
+      "ラス殺し"
+    ]
   },
   {
     "title": "apo:llioth",
     "tier": "地力C",
-    "attributes": ["連皿"]
+    "attributes": [
+      "連皿"
+    ]
   },
   {
     "title": "Arabian Rave Night",
     "tier": "地力C",
-    "attributes": ["乱打", "体力"]
+    "attributes": [
+      "乱打",
+      "体力"
+    ]
   },
   {
     "title": "Around the Future",
     "tier": "地力C",
-    "attributes": ["乱打", "トリル", "連皿"]
+    "attributes": [
+      "乱打",
+      "トリル",
+      "連皿"
+    ]
   },
   {
     "title": "Aublia",
     "tier": "地力C",
-    "attributes": ["CN", "階段", "螺旋階段"]
+    "attributes": [
+      "CN",
+      "階段",
+      "螺旋階段"
+    ]
   },
   {
     "title": "BabeL ～Grand Story～",
     "tier": "地力C",
-    "attributes": ["CN", "皿絡み", "対称"]
+    "attributes": [
+      "CN",
+      "皿絡み",
+      "対称"
+    ]
   },
   {
     "title": "Banger Banger Banger Banger",
     "tier": "地力C",
-    "attributes": ["皿絡み"]
+    "attributes": [
+      "皿絡み"
+    ]
   },
   {
     "title": "Battleground",
     "tier": "地力C",
-    "attributes": ["乱打", "終盤難"]
+    "attributes": [
+      "乱打",
+      "終盤難"
+    ]
   },
   {
     "title": "Burning Flame",
     "tier": "地力C",
-    "attributes": ["連皿", "二重トリル"]
+    "attributes": [
+      "連皿",
+      "二重トリル"
+    ]
   },
   {
     "title": "City Never Sleeps (IIDX Edition)",
     "tier": "地力C",
-    "attributes": ["CN", "階段"]
+    "attributes": [
+      "CN",
+      "階段"
+    ]
   },
   {
     "title": "Cleopatrysm",
     "tier": "地力C",
-    "attributes": ["高密度"]
+    "attributes": [
+      "高密度"
+    ]
   },
   {
     "title": "CODE:0",
     "tier": "地力C",
-    "attributes": ["皿絡み"]
+    "attributes": [
+      "皿絡み"
+    ]
   },
   {
     "title": "CONCEPTUAL",
     "tier": "地力C",
-    "attributes": ["前半難"]
+    "attributes": [
+      "前半難"
+    ]
   },
   {
     "title": "CONTRACT",
     "tier": "地力C",
-    "attributes": ["螺旋階段", "同時", "トリル"]
+    "attributes": [
+      "螺旋階段",
+      "同時",
+      "トリル"
+    ]
   },
   {
     "title": "Danza Aestas",
     "tier": "地力C",
-    "attributes": ["螺旋階段"]
+    "attributes": [
+      "螺旋階段"
+    ]
   },
   {
     "title": "Debtty Daddy",
     "tier": "地力C",
-    "attributes": ["同時押し", "皿複合", "ラス殺し"]
+    "attributes": [
+      "同時押し",
+      "皿複合",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Devilz Sacrifice -贖罪の羊-",
     "tier": "地力C",
-    "attributes": ["階段", "CN"]
+    "attributes": [
+      "階段",
+      "CN"
+    ]
   },
   {
     "title": "Discloze",
     "tier": "地力C",
-    "attributes": ["ソフラン", "CN", "BSS"]
+    "attributes": [
+      "ソフラン",
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "DISPARATE",
     "tier": "地力C",
-    "attributes": ["皿絡み", "軸"]
+    "attributes": [
+      "皿絡み",
+      "軸"
+    ]
   },
   {
     "title": "DREAM OF SPACE UFO ABDUCTION",
     "tier": "地力C",
-    "attributes": ["乱打", "二重トリル", "全押し"]
+    "attributes": [
+      "乱打",
+      "二重トリル",
+      "全押し"
+    ]
   },
   {
     "title": "Egret and Willow",
     "tier": "地力C",
-    "attributes": ["皿絡み"]
+    "attributes": [
+      "皿絡み"
+    ]
   },
   {
     "title": "Elektrick U-Phoria",
     "tier": "地力C",
-    "attributes": ["乱打", "二重階段"]
+    "attributes": [
+      "乱打",
+      "二重階段"
+    ]
   },
   {
     "title": "Ember Lights",
     "tier": "地力C",
-    "attributes": ["乱打", "CN"]
+    "attributes": [
+      "乱打",
+      "CN"
+    ]
   },
   {
     "title": "Evans(H)",
     "tier": "地力C",
-    "attributes": ["軸", "ラス殺し"]
+    "attributes": [
+      "軸",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Fervidex",
     "tier": "地力C",
-    "attributes": ["微発狂"]
+    "attributes": [
+      "微発狂"
+    ]
   },
   {
     "title": "FINALLY BLAZE",
     "tier": "地力C",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "GuNGNiR(H)",
     "tier": "地力C",
-    "attributes": ["高速", "階段"]
+    "attributes": [
+      "高速",
+      "階段"
+    ]
   },
   {
     "title": "HEISEI",
     "tier": "地力C",
-    "attributes": ["乱打", "CN"]
+    "attributes": [
+      "乱打",
+      "CN"
+    ]
   },
   {
     "title": "HYENA",
     "tier": "地力C",
-    "attributes": ["トリル", "階段"]
+    "attributes": [
+      "トリル",
+      "階段"
+    ]
   },
   {
     "title": "I Love You",
     "tier": "地力C",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "INAZUMA",
     "tier": "地力C",
-    "attributes": ["乱打", "トリル", "終盤難"]
+    "attributes": [
+      "乱打",
+      "トリル",
+      "終盤難"
+    ]
   },
   {
     "title": "Inner Spirit",
     "tier": "地力C",
-    "attributes": ["階段", "皿複合", "階段", "HARD地雷"]
+    "attributes": [
+      "階段",
+      "皿複合",
+      "階段",
+      "HARD地雷"
+    ]
   },
   {
     "title": "Insane Techniques",
     "tier": "地力C",
-    "attributes": ["連皿", "ラス殺し"]
+    "attributes": [
+      "連皿",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Into The Madness",
     "tier": "地力C",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "INVISIBLE STRIX",
     "tier": "地力C",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "KAMAITACHI",
     "tier": "地力C",
-    "attributes": ["乱打", "中盤発狂"]
+    "attributes": [
+      "乱打",
+      "中盤発狂"
+    ]
   },
   {
     "title": "Lawes's Parotia",
     "tier": "地力C",
-    "attributes": ["二重階段"]
+    "attributes": [
+      "二重階段"
+    ]
   },
   {
     "title": "Lighting Shower",
     "tier": "地力C",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Like+it!",
     "tier": "地力C",
-    "attributes": ["皿絡み", "乱打"]
+    "attributes": [
+      "皿絡み",
+      "乱打"
+    ]
   },
   {
     "title": "MENDES(H)",
     "tier": "地力C",
-    "attributes": ["階段", "同時", "皿複合", "序盤難"]
+    "attributes": [
+      "階段",
+      "同時",
+      "皿複合",
+      "序盤難"
+    ]
   },
   {
     "title": "MINT",
     "tier": "地力C",
-    "attributes": ["トリル", "乱打", "同時"]
+    "attributes": [
+      "トリル",
+      "乱打",
+      "同時"
+    ]
   },
   {
     "title": "Neo Heritage",
     "tier": "地力C",
-    "attributes": ["乱打", "皿複合"]
+    "attributes": [
+      "乱打",
+      "皿複合"
+    ]
   },
   {
     "title": "Never Fade Away",
     "tier": "地力C",
-    "attributes": ["乱打", "対称"]
+    "attributes": [
+      "乱打",
+      "対称"
+    ]
   },
   {
     "title": "Next Tales 2 Oath (IIDX 20th Anniv \"Ring\" Theme)",
     "tier": "地力C",
-    "attributes": ["乱打", "トリル", "ラス殺し"]
+    "attributes": [
+      "乱打",
+      "トリル",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Night sky",
     "tier": "地力C",
-    "attributes": ["CN", "軸"]
+    "attributes": [
+      "CN",
+      "軸"
+    ]
   },
   {
     "title": "Onyx",
     "tier": "地力C",
-    "attributes": ["CN", "急減速"]
+    "attributes": [
+      "CN",
+      "急減速"
+    ]
   },
   {
     "title": "Override",
     "tier": "地力C",
-    "attributes": ["中盤難", "2重くの字配置"]
+    "attributes": [
+      "中盤難",
+      "2重くの字配置"
+    ]
   },
   {
     "title": "Programmed Sun",
     "tier": "地力C",
-    "attributes": ["CN", "乱打", "後半難"]
+    "attributes": [
+      "CN",
+      "乱打",
+      "後半難"
+    ]
   },
   {
     "title": "prompt",
     "tier": "地力C",
-    "attributes": ["同時", "階段"]
+    "attributes": [
+      "同時",
+      "階段"
+    ]
   },
   {
     "title": "rainbow guitar weeps",
     "tier": "地力C",
-    "attributes": ["前半難", "階段"]
+    "attributes": [
+      "前半難",
+      "階段"
+    ]
   },
   {
     "title": "rainbow rainbow",
     "tier": "地力C",
-    "attributes": ["同時押し", "トリル", "階段", "対称"]
+    "attributes": [
+      "同時押し",
+      "トリル",
+      "階段",
+      "対称"
+    ]
   },
   {
     "title": "Ruler or Loser",
     "tier": "地力C",
-    "attributes": ["CN", "BSS", "トリル", "軸"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "トリル",
+      "軸"
+    ]
   },
   {
     "title": "S!ck (Nhato Remix)",
     "tier": "地力C",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "Sakura Mirage",
     "tier": "地力C",
-    "attributes": ["CN・BSS"]
+    "attributes": [
+      "CN・BSS"
+    ]
   },
   {
     "title": "Scarlet Moon",
     "tier": "地力C",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "Scripted Connection⇒ H mix",
     "tier": "地力C",
-    "attributes": ["乱打", "トリル", "縦連"]
+    "attributes": [
+      "乱打",
+      "トリル",
+      "縦連"
+    ]
   },
   {
     "title": "Secrets",
     "tier": "地力C",
-    "attributes": ["皿複合", "ラス殺し"]
+    "attributes": [
+      "皿複合",
+      "ラス殺し"
+    ]
   },
   {
     "title": "SEQUENCE CAT",
     "tier": "地力C",
-    "attributes": ["乱打", "同時", "中盤階段発狂"]
+    "attributes": [
+      "乱打",
+      "同時",
+      "中盤階段発狂"
+    ]
   },
   {
     "title": "SHADE",
     "tier": "地力C",
-    "attributes": ["初見殺し", "乱打", "カプセル押し", "終盤難"]
+    "attributes": [
+      "初見殺し",
+      "乱打",
+      "カプセル押し",
+      "終盤難"
+    ]
   },
   {
     "title": "Shadow World",
     "tier": "地力C",
-    "attributes": ["同時押し"]
+    "attributes": [
+      "同時押し"
+    ]
   },
   {
     "title": "Snow Goose",
     "tier": "地力C",
-    "attributes": ["階段", "乱打", "高速"]
+    "attributes": [
+      "階段",
+      "乱打",
+      "高速"
+    ]
   },
   {
     "title": "SOUND OF GIALLARHORN",
     "tier": "地力C",
-    "attributes": ["同時押し", "小階段", "中盤難"]
+    "attributes": [
+      "同時押し",
+      "小階段",
+      "中盤難"
+    ]
   },
   {
     "title": "Squeeze",
     "tier": "地力C",
-    "attributes": ["乱打", "皿複合"]
+    "attributes": [
+      "乱打",
+      "皿複合"
+    ]
   },
   {
     "title": "STARLiGHT",
     "tier": "地力C",
-    "attributes": ["トリル", "軸", "連皿", "皿複合"]
+    "attributes": [
+      "トリル",
+      "軸",
+      "連皿",
+      "皿複合"
+    ]
   },
   {
     "title": "STARLIGHT DANCEHALL",
     "tier": "地力C",
-    "attributes": ["連皿", "皿複合"]
+    "attributes": [
+      "連皿",
+      "皿複合"
+    ]
   },
   {
     "title": "STRAIGHT TO THE STARS",
     "tier": "地力C",
-    "attributes": ["乱打", "後半難", "連打"]
+    "attributes": [
+      "乱打",
+      "後半難",
+      "連打"
+    ]
   },
   {
     "title": "Sun Field",
     "tier": "地力C",
-    "attributes": ["同時押し", "階段", "皿絡み", "ラス殺し"]
+    "attributes": [
+      "同時押し",
+      "階段",
+      "皿絡み",
+      "ラス殺し"
+    ]
   },
   {
     "title": "switch",
     "tier": "地力C",
-    "attributes": ["二重階段", "局所難", "ラス殺し"]
+    "attributes": [
+      "二重階段",
+      "局所難",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Take My Life",
     "tier": "地力C",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "THE DETONATOR",
     "tier": "地力C",
-    "attributes": ["皿複合", "微縦連", "トリル", "前半難"]
+    "attributes": [
+      "皿複合",
+      "微縦連",
+      "トリル",
+      "前半難"
+    ]
   },
   {
     "title": "THE TIME MACHINE",
     "tier": "地力C",
-    "attributes": ["乱打", "CN", "BSS"]
+    "attributes": [
+      "乱打",
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "Tropical April",
     "tier": "地力C",
-    "attributes": ["同時押し", "ラス殺し"]
+    "attributes": [
+      "同時押し",
+      "ラス殺し"
+    ]
   },
   {
     "title": "TYPE MARS(G-Style Mix)",
     "tier": "地力C",
-    "attributes": ["高速トリル", "ラス殺し"]
+    "attributes": [
+      "高速トリル",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Ubertreffen",
     "tier": "地力C",
-    "attributes": ["階段", "皿絡み", "トリル"]
+    "attributes": [
+      "階段",
+      "皿絡み",
+      "トリル"
+    ]
   },
   {
     "title": "UNITE THE HEART",
     "tier": "地力C",
-    "attributes": ["体力譜面", "皿同時"]
+    "attributes": [
+      "体力譜面",
+      "皿同時"
+    ]
   },
   {
     "title": "VANESSA(H)",
     "tier": "地力C",
-    "attributes": ["二重階段", "微縦連"]
+    "attributes": [
+      "二重階段",
+      "微縦連"
+    ]
   },
   {
     "title": "Xepher",
     "tier": "地力C",
-    "attributes": ["階段", "Ｘ地帯"]
+    "attributes": [
+      "階段",
+      "Ｘ地帯"
+    ]
   },
   {
     "title": "Yellow Sketch(RX-Ver.S.P.L.)",
     "tier": "地力C",
-    "attributes": ["階段", "CN"]
+    "attributes": [
+      "階段",
+      "CN"
+    ]
   },
   {
     "title": "Ypsilon",
     "tier": "地力C",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Yum Yum Jelly",
     "tier": "地力C",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "ZEPHYRANTHES",
     "tier": "地力C",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "2 tribe 4 K",
     "tier": "地力C",
-    "attributes": ["同時"]
+    "attributes": [
+      "同時"
+    ]
   },
   {
     "title": "50th Memorial Songs -The BEMANI History-",
     "tier": "地力C",
-    "attributes": ["階段", "トリル", "CN", "ズレ"]
+    "attributes": [
+      "階段",
+      "トリル",
+      "CN",
+      "ズレ"
+    ]
   },
   {
     "title": "ATHER",
     "tier": "地力C",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "オールトの雲",
     "tier": "地力C",
-    "attributes": ["ズレCN", "終盤難"]
+    "attributes": [
+      "ズレCN",
+      "終盤難"
+    ]
   },
   {
     "title": "朧(L)",
     "tier": "地力C",
-    "attributes": ["皿絡み", "同時"]
+    "attributes": [
+      "皿絡み",
+      "同時"
+    ]
   },
   {
     "title": "か・し・ま・し☆PUMP UP！",
     "tier": "地力C",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "華蝶風雪",
     "tier": "地力C",
-    "attributes": ["同時", "軸", "階段", "乱打", "ラス殺し(ただし乱で解決)"]
+    "attributes": [
+      "同時",
+      "軸",
+      "階段",
+      "乱打",
+      "ラス殺し(ただし乱で解決)"
+    ]
   },
   {
     "title": "鴉",
     "tier": "地力C",
-    "attributes": ["同時", "皿絡み"]
+    "attributes": [
+      "同時",
+      "皿絡み"
+    ]
   },
   {
     "title": "超青少年ノ為ノ超多幸ナ超古典的超舞曲",
     "tier": "地力C",
-    "attributes": ["階段", "二重トリル"]
+    "attributes": [
+      "階段",
+      "二重トリル"
+    ]
   },
   {
     "title": "天空脳番長危機十六連打",
     "tier": "地力C",
-    "attributes": ["乱打", "皿複合"]
+    "attributes": [
+      "乱打",
+      "皿複合"
+    ]
   },
   {
     "title": "涙のテ・エストラーニョ・ムーチョ",
     "tier": "地力C",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "ハイテックトキオ",
     "tier": "地力C",
-    "attributes": ["MSS"]
+    "attributes": [
+      "MSS"
+    ]
   },
   {
     "title": "バンブーソード・ガール",
     "tier": "地力C",
-    "attributes": ["高速", "階段", "皿絡み"]
+    "attributes": [
+      "高速",
+      "階段",
+      "皿絡み"
+    ]
   },
   {
     "title": "ピアノ協奏曲第１番”蠍火”(H)",
     "tier": "地力C",
-    "attributes": ["階段", "縦連", "皿", "ソフラン", "ラス殺し"]
+    "attributes": [
+      "階段",
+      "縦連",
+      "皿",
+      "ソフラン",
+      "ラス殺し"
+    ]
   },
   {
     "title": "冬椿 ft. Kanae Asaba(L)",
     "tier": "地力C",
-    "attributes": ["トリル", "皿絡み"]
+    "attributes": [
+      "トリル",
+      "皿絡み"
+    ]
   },
   {
     "title": "マツケンサンバII",
     "tier": "地力C",
-    "attributes": ["デニム"]
+    "attributes": [
+      "デニム"
+    ]
   },
   {
     "title": "無意識のフィロソフィア",
     "tier": "地力C",
-    "attributes": ["物量", "乱打"]
+    "attributes": [
+      "物量",
+      "乱打"
+    ]
   },
   {
     "title": "明鏡止水",
     "tier": "地力C",
-    "attributes": ["ズレ"]
+    "attributes": [
+      "ズレ"
+    ]
   },
   {
     "title": "夕焼け ～Fading Day～",
     "tier": "地力C",
-    "attributes": ["乱打", "皿複合"]
+    "attributes": [
+      "乱打",
+      "皿複合"
+    ]
   },
   {
     "title": "龍と少女とデコヒーレンス",
     "tier": "地力C",
-    "attributes": ["乱打", "高密度"]
+    "attributes": [
+      "乱打",
+      "高密度"
+    ]
   },
   {
     "title": "Ah Hah Yeah",
     "tier": "個人差C",
-    "attributes": ["ソフラン"]
+    "attributes": [
+      "ソフラン"
+    ]
   },
   {
     "title": "AIR RAID FROM THA UNDAGROUND",
     "tier": "個人差C",
-    "attributes": ["軸", "トリル", "ラス殺し"]
+    "attributes": [
+      "軸",
+      "トリル",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Beyond Evolution(H)",
     "tier": "個人差C",
-    "attributes": ["HCN", "階段", "軸"]
+    "attributes": [
+      "HCN",
+      "階段",
+      "軸"
+    ]
   },
   {
     "title": "Digitank System",
     "tier": "個人差C",
-    "attributes": ["連皿", "同時"]
+    "attributes": [
+      "連皿",
+      "同時"
+    ]
   },
   {
     "title": "FAKE TIME(H)",
     "tier": "個人差C",
-    "attributes": ["高速トリル", "二重階段", "ラス殺し"]
+    "attributes": [
+      "高速トリル",
+      "二重階段",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Mare Nectaris(H)",
     "tier": "個人差C",
-    "attributes": ["高速階段", "軸", "ラス殺し"]
+    "attributes": [
+      "高速階段",
+      "軸",
+      "ラス殺し"
+    ]
   },
   {
     "title": "PARADISE LOST(H)",
     "tier": "個人差C",
-    "attributes": ["CN", "ズレ", "リズム難", "詐称曲"]
+    "attributes": [
+      "CN",
+      "ズレ",
+      "リズム難",
+      "詐称曲"
+    ]
   },
   {
     "title": "Temple of Anubis",
     "tier": "個人差C",
-    "attributes": ["乱打", "連皿"]
+    "attributes": [
+      "乱打",
+      "連皿"
+    ]
   },
   {
     "title": "Uh-Oh",
     "tier": "個人差C",
-    "attributes": ["連皿", "難地雷"]
+    "attributes": [
+      "連皿",
+      "難地雷"
+    ]
   },
   {
     "title": "XINOBIKILL",
     "tier": "個人差C",
-    "attributes": ["CN", "階段"]
+    "attributes": [
+      "CN",
+      "階段"
+    ]
   },
   {
     "title": "時空トラベローグ",
     "tier": "個人差C",
-    "attributes": ["跳ねリズム", "高速トリル"]
+    "attributes": [
+      "跳ねリズム",
+      "高速トリル"
+    ]
   },
   {
     "title": "忍恋花",
     "tier": "個人差C",
-    "attributes": ["軸", "トリル"]
+    "attributes": [
+      "軸",
+      "トリル"
+    ]
   },
   {
     "title": "ディッシュウォッシャー◎彡おいわちゃん",
     "tier": "個人差C",
-    "attributes": ["ラス殺し"]
+    "attributes": [
+      "ラス殺し"
+    ]
   },
   {
     "title": "開きたまえ！Next stAge！",
     "tier": "個人差C",
-    "attributes": ["連皿"]
+    "attributes": [
+      "連皿"
+    ]
   },
   {
     "title": "Angelic Jelly",
     "tier": "地力D",
-    "attributes": ["二重トリル"]
+    "attributes": [
+      "二重トリル"
+    ]
   },
   {
     "title": "Anisakis -somatic mutation type\"Forza\"-",
     "tier": "地力D",
-    "attributes": ["同時", "階段", "後半難"]
+    "attributes": [
+      "同時",
+      "階段",
+      "後半難"
+    ]
   },
   {
     "title": "Around The Galaxy",
     "tier": "地力D",
-    "attributes": ["乱打", "軸"]
+    "attributes": [
+      "乱打",
+      "軸"
+    ]
   },
   {
     "title": "Aurora",
     "tier": "地力D",
-    "attributes": ["同時", "乱打", "トリル"]
+    "attributes": [
+      "同時",
+      "乱打",
+      "トリル"
+    ]
   },
   {
     "title": "Be A Star",
     "tier": "地力D",
-    "attributes": ["同時押し", "乱打"]
+    "attributes": [
+      "同時押し",
+      "乱打"
+    ]
   },
   {
     "title": "Be quiet",
     "tier": "地力D",
-    "attributes": ["同時", "乱打"]
+    "attributes": [
+      "同時",
+      "乱打"
+    ]
   },
   {
     "title": "Beyond The Seven",
     "tier": "地力D",
-    "attributes": ["乱打", "ラス殺し(軸→デニム)"]
+    "attributes": [
+      "乱打",
+      "ラス殺し(軸→デニム)"
+    ]
   },
   {
     "title": "Blame",
     "tier": "地力D",
-    "attributes": ["縦連", "ラス殺し"]
+    "attributes": [
+      "縦連",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Blaze it UP!",
     "tier": "地力D",
-    "attributes": ["CN", "乱打"]
+    "attributes": [
+      "CN",
+      "乱打"
+    ]
   },
   {
     "title": "Blue Rain",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "BREAK OVER",
     "tier": "地力D",
-    "attributes": ["ソフラン", "皿複合", "ラス殺し"]
+    "attributes": [
+      "ソフラン",
+      "皿複合",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Broadbanded",
     "tier": "地力D",
-    "attributes": ["トリル", "軸", "ラス殺し"]
+    "attributes": [
+      "トリル",
+      "軸",
+      "ラス殺し"
+    ]
   },
   {
     "title": "CaptivAte～浄化～",
     "tier": "地力D",
-    "attributes": ["隣接同時", "前半難"]
+    "attributes": [
+      "隣接同時",
+      "前半難"
+    ]
   },
   {
     "title": "Chronos",
     "tier": "地力D",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "Clione(L)",
     "tier": "地力D",
-    "attributes": ["HCN", "乱打"]
+    "attributes": [
+      "HCN",
+      "乱打"
+    ]
   },
   {
     "title": "Daily Lunch Special",
     "tier": "地力D",
-    "attributes": ["CN", "軸", "同時押し"]
+    "attributes": [
+      "CN",
+      "軸",
+      "同時押し"
+    ]
   },
   {
     "title": "DEEP ROAR",
     "tier": "地力D",
-    "attributes": ["トリル"]
+    "attributes": [
+      "トリル"
+    ]
   },
   {
     "title": "Derelict Star feat. Ryu*",
     "tier": "地力D",
-    "attributes": ["CN", "乱打", "トリル", "皿絡み"]
+    "attributes": [
+      "CN",
+      "乱打",
+      "トリル",
+      "皿絡み"
+    ]
   },
   {
     "title": "Element of SPADA(L)",
     "tier": "地力D",
-    "attributes": ["CN", "物量"]
+    "attributes": [
+      "CN",
+      "物量"
+    ]
   },
   {
     "title": "Emera",
     "tier": "地力D",
-    "attributes": ["CN", "皿複合", "二重トリル"]
+    "attributes": [
+      "CN",
+      "皿複合",
+      "二重トリル"
+    ]
   },
   {
     "title": "Energy Drive",
     "tier": "地力D",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "Engraved Mark",
     "tier": "地力D",
-    "attributes": ["トリル", "皿複合", "対称"]
+    "attributes": [
+      "トリル",
+      "皿複合",
+      "対称"
+    ]
   },
   {
     "title": "Exhaust Hype",
     "tier": "地力D",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "EXTREME MACH COLLIDER",
     "tier": "地力D",
-    "attributes": ["BSS", "皿複合"]
+    "attributes": [
+      "BSS",
+      "皿複合"
+    ]
   },
   {
     "title": "GIGA RAID",
     "tier": "地力D",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "GIGA THRASH",
     "tier": "地力D",
-    "attributes": ["皿複合", "ズレ"]
+    "attributes": [
+      "皿複合",
+      "ズレ"
+    ]
   },
   {
     "title": "GIGA VIOLATE",
     "tier": "地力D",
-    "attributes": ["終盤難", "CN", "連打"]
+    "attributes": [
+      "終盤難",
+      "CN",
+      "連打"
+    ]
   },
   {
     "title": "Globe Glitter",
     "tier": "地力D",
-    "attributes": ["トリル", "乱打"]
+    "attributes": [
+      "トリル",
+      "乱打"
+    ]
   },
   {
     "title": "GOLD RUSH",
     "tier": "地力D",
-    "attributes": ["同時", "トリル", "皿複合", "ラス殺し"]
+    "attributes": [
+      "同時",
+      "トリル",
+      "皿複合",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Harmony and Lovely",
     "tier": "地力D",
-    "attributes": ["交互軸", "乱打", "中盤難"]
+    "attributes": [
+      "交互軸",
+      "乱打",
+      "中盤難"
+    ]
   },
   {
     "title": "Hat Surprise",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Honey Trap",
     "tier": "地力D",
-    "attributes": ["皿複合", "連皿"]
+    "attributes": [
+      "皿複合",
+      "連皿"
+    ]
   },
   {
     "title": "HYPERION",
     "tier": "地力D",
-    "attributes": ["トリル"]
+    "attributes": [
+      "トリル"
+    ]
   },
   {
     "title": "INORI",
     "tier": "地力D",
-    "attributes": ["螺旋", "物量", "ラス殺し"]
+    "attributes": [
+      "螺旋",
+      "物量",
+      "ラス殺し"
+    ]
   },
   {
     "title": "KHAMEN BREAK",
     "tier": "地力D",
-    "attributes": ["BSS", "階段", "皿複合"]
+    "attributes": [
+      "BSS",
+      "階段",
+      "皿複合"
+    ]
   },
   {
     "title": "Line 4 Ruin",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Little Little Princess",
     "tier": "地力D",
-    "attributes": ["同時", "螺旋", "階段", "高速"]
+    "attributes": [
+      "同時",
+      "螺旋",
+      "階段",
+      "高速"
+    ]
   },
   {
     "title": "MA・TSU・RI",
     "tier": "地力D",
-    "attributes": ["BSS"]
+    "attributes": [
+      "BSS"
+    ]
   },
   {
     "title": "n'pa pa BBQ",
     "tier": "地力D",
-    "attributes": ["乱打", "軸", "ラスト要注意(縦連)"]
+    "attributes": [
+      "乱打",
+      "軸",
+      "ラスト要注意(縦連)"
+    ]
   },
   {
     "title": "Nasty Techniques",
     "tier": "地力D",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "No Limit 2 dAnce feat. 大山愛未",
     "tier": "地力D",
-    "attributes": ["乱打", "逆詐称"]
+    "attributes": [
+      "乱打",
+      "逆詐称"
+    ]
   },
   {
     "title": "Nothing but Theory",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "PAPAYAPA BASS",
     "tier": "地力D",
-    "attributes": ["皿絡み"]
+    "attributes": [
+      "皿絡み"
+    ]
   },
   {
     "title": "Pharaoh",
     "tier": "地力D",
-    "attributes": ["二重階段"]
+    "attributes": [
+      "二重階段"
+    ]
   },
   {
     "title": "Programmed World",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "QUANTUM TELEPORTATION",
     "tier": "地力D",
-    "attributes": ["乱打", "終盤難"]
+    "attributes": [
+      "乱打",
+      "終盤難"
+    ]
   },
   {
     "title": "quasar",
     "tier": "地力D",
-    "attributes": ["乱打", "中盤難"]
+    "attributes": [
+      "乱打",
+      "中盤難"
+    ]
   },
   {
     "title": "Quick Silver",
     "tier": "地力D",
-    "attributes": ["CN", "BSS", "皿複合", "同時"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "皿複合",
+      "同時"
+    ]
   },
   {
     "title": "rainbow flyer",
     "tier": "地力D",
-    "attributes": ["同時", "階段", "トリル", "ラス殺し"]
+    "attributes": [
+      "同時",
+      "階段",
+      "トリル",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Realize Maze",
     "tier": "地力D",
-    "attributes": ["乱打", "縦連打"]
+    "attributes": [
+      "乱打",
+      "縦連打"
+    ]
   },
   {
     "title": "RED ZONE",
     "tier": "地力D",
-    "attributes": ["乱打", "階段", "皿絡み"]
+    "attributes": [
+      "乱打",
+      "階段",
+      "皿絡み"
+    ]
   },
   {
     "title": "RESONATE 1794",
     "tier": "地力D",
-    "attributes": ["二重階段", "ラス殺し"]
+    "attributes": [
+      "二重階段",
+      "ラス殺し"
+    ]
   },
   {
     "title": "reunion(H)",
     "tier": "地力D",
-    "attributes": ["Ｘ地帯", "階段", "高速トリル", "皿複合"]
+    "attributes": [
+      "Ｘ地帯",
+      "階段",
+      "高速トリル",
+      "皿複合"
+    ]
   },
   {
     "title": "Rising in the Sun(original mix)",
     "tier": "地力D",
-    "attributes": ["HCN"]
+    "attributes": [
+      "HCN"
+    ]
   },
   {
     "title": "Rock It",
     "tier": "地力D",
-    "attributes": ["トリル", "皿複合"]
+    "attributes": [
+      "トリル",
+      "皿複合"
+    ]
   },
   {
     "title": "ROTTERDAM SHOGUN",
     "tier": "地力D",
-    "attributes": ["CN", "同時押し", "皿絡み"]
+    "attributes": [
+      "CN",
+      "同時押し",
+      "皿絡み"
+    ]
   },
   {
     "title": "satellite020712 from \"CODED ARMS\"",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "SPACE FIGHT",
     "tier": "地力D",
-    "attributes": ["同時押し", "乱打"]
+    "attributes": [
+      "同時押し",
+      "乱打"
+    ]
   },
   {
     "title": "Sparkle Smilin'",
     "tier": "地力D",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "State Of The Art",
     "tier": "地力D",
-    "attributes": ["乱打", "終盤難"]
+    "attributes": [
+      "乱打",
+      "終盤難"
+    ]
   },
   {
     "title": "STOIC HYPOTHESIS",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Synergy For Angels",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "THE LAST STRIKER",
     "tier": "地力D",
-    "attributes": ["乱打", "トリル"]
+    "attributes": [
+      "乱打",
+      "トリル"
+    ]
   },
   {
     "title": "the shadow",
     "tier": "地力D",
-    "attributes": ["乱打", "トリル", "終盤難"]
+    "attributes": [
+      "乱打",
+      "トリル",
+      "終盤難"
+    ]
   },
   {
     "title": "(This Is Not) The Angels",
     "tier": "地力D",
-    "attributes": ["疑似停止", "皿絡み", "二重階段"]
+    "attributes": [
+      "疑似停止",
+      "皿絡み",
+      "二重階段"
+    ]
   },
   {
     "title": "Urban Constellations",
     "tier": "地力D",
-    "attributes": ["前半乱打", "後半CN"]
+    "attributes": [
+      "前半乱打",
+      "後半CN"
+    ]
   },
   {
     "title": "Valgus",
     "tier": "地力D",
-    "attributes": ["縦連"]
+    "attributes": [
+      "縦連"
+    ]
   },
   {
     "title": "VALKYRIAS -英雄誕生-",
     "tier": "地力D",
-    "attributes": ["終盤難"]
+    "attributes": [
+      "終盤難"
+    ]
   },
   {
     "title": "Victory Of Ravers",
     "tier": "地力D",
-    "attributes": ["CN", "皿絡み"]
+    "attributes": [
+      "CN",
+      "皿絡み"
+    ]
   },
   {
     "title": "Volcanic Dragon",
     "tier": "地力D",
-    "attributes": ["BSS", "皿絡み"]
+    "attributes": [
+      "BSS",
+      "皿絡み"
+    ]
   },
   {
     "title": "Vulkan",
     "tier": "地力D",
-    "attributes": ["同時"]
+    "attributes": [
+      "同時"
+    ]
   },
   {
     "title": "Wonder Girl feat. Kanae Asaba",
     "tier": "地力D",
-    "attributes": ["乱打", "ラス殺し"]
+    "attributes": [
+      "乱打",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Wonderland",
     "tier": "地力D",
-    "attributes": ["終盤難"]
+    "attributes": [
+      "終盤難"
+    ]
   },
   {
     "title": "X-ray binary",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "xenon",
     "tier": "地力D",
-    "attributes": ["乱打", "皿絡み"]
+    "attributes": [
+      "乱打",
+      "皿絡み"
+    ]
   },
   {
     "title": "ZED",
     "tier": "地力D",
-    "attributes": ["乱打", "階段", "高速"]
+    "attributes": [
+      "乱打",
+      "階段",
+      "高速"
+    ]
   },
   {
     "title": "ZENDEGI DANCE",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "405nm (Ryu☆mix)",
     "tier": "地力D",
-    "attributes": ["軸", "トリル"]
+    "attributes": [
+      "軸",
+      "トリル"
+    ]
   },
   {
     "title": "あるビー！ feat.ころねぽち",
     "tier": "地力D",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "命の標本",
     "tier": "地力D",
-    "attributes": ["階段", "皿同時"]
+    "attributes": [
+      "階段",
+      "皿同時"
+    ]
   },
   {
     "title": "麗 ～うらら～",
     "tier": "地力D",
-    "attributes": ["軸", "階段", "皿絡み"]
+    "attributes": [
+      "軸",
+      "階段",
+      "皿絡み"
+    ]
   },
   {
     "title": "おーまい！らぶりー！すうぃーてぃ！だーりん！",
     "tier": "地力D",
-    "attributes": ["高速トリル"]
+    "attributes": [
+      "高速トリル"
+    ]
   },
   {
     "title": "合体せよ！ストロングイェーガー！！ (Ryu☆ remix)",
     "tier": "地力D",
-    "attributes": ["乱打", "同時", "ラス殺し"]
+    "attributes": [
+      "乱打",
+      "同時",
+      "ラス殺し"
+    ]
   },
   {
     "title": "君のハートにロックオン",
     "tier": "地力D",
-    "attributes": ["階段"]
+    "attributes": [
+      "階段"
+    ]
   },
   {
     "title": "狂水一華",
     "tier": "地力D",
-    "attributes": ["乱打", "CN"]
+    "attributes": [
+      "乱打",
+      "CN"
+    ]
   },
   {
     "title": "グッバイ宣言",
     "tier": "地力D",
-    "attributes": ["同時押し", "二重階段"]
+    "attributes": [
+      "同時押し",
+      "二重階段"
+    ]
   },
   {
     "title": "#The_Relentless",
     "tier": "地力D",
-    "attributes": ["CN", "BSS", "二重階段"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "二重階段"
+    ]
   },
   {
     "title": "シャムシールの舞",
     "tier": "地力D",
-    "attributes": ["ソフラン"]
+    "attributes": [
+      "ソフラン"
+    ]
   },
   {
     "title": "ちょえちょえまぎか",
     "tier": "地力D",
-    "attributes": ["物量", "乱打"]
+    "attributes": [
+      "物量",
+      "乱打"
+    ]
   },
   {
     "title": "IX(H)",
     "tier": "地力D",
-    "attributes": ["階段", "CN"]
+    "attributes": [
+      "階段",
+      "CN"
+    ]
   },
   {
     "title": "嘆きの樹(H)",
     "tier": "地力D",
-    "attributes": ["トリル", "終盤難"]
+    "attributes": [
+      "トリル",
+      "終盤難"
+    ]
   },
   {
     "title": "バッドエンド・シンドローム",
     "tier": "地力D",
-    "attributes": ["同時押し"]
+    "attributes": [
+      "同時押し"
+    ]
   },
   {
     "title": "バ→ビ→ブ→Bomb!",
     "tier": "地力D",
-    "attributes": ["トリル", "軸", "開幕BSS"]
+    "attributes": [
+      "トリル",
+      "軸",
+      "開幕BSS"
+    ]
   },
   {
     "title": "パ→ピ→プ→Yeah!",
     "tier": "地力D",
-    "attributes": ["CN", "同時", "逆詐称"]
+    "attributes": [
+      "CN",
+      "同時",
+      "逆詐称"
+    ]
   },
   {
     "title": "パラドキシカル・タイムリープトライアル(Short Ver.)",
     "tier": "地力D",
-    "attributes": ["開幕殺し"]
+    "attributes": [
+      "開幕殺し"
+    ]
   },
   {
     "title": "ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！",
     "tier": "地力D",
-    "attributes": ["階段"]
+    "attributes": [
+      "階段"
+    ]
   },
   {
     "title": "曼荼羅恋々",
     "tier": "地力D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "ランカーキラーガール",
     "tier": "地力D",
-    "attributes": ["同時押し", "CN"]
+    "attributes": [
+      "同時押し",
+      "CN"
+    ]
   },
   {
     "title": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
     "tier": "地力D",
-    "attributes": ["乱打", "CN"]
+    "attributes": [
+      "乱打",
+      "CN"
+    ]
   },
   {
     "title": "凛として咲く花の如く(L)",
     "tier": "地力D",
-    "attributes": ["階段", "同時", "トリル"]
+    "attributes": [
+      "階段",
+      "同時",
+      "トリル"
+    ]
   },
   {
     "title": "Click Again",
     "tier": "個人差D",
-    "attributes": ["軸", "縦連"]
+    "attributes": [
+      "軸",
+      "縦連"
+    ]
   },
   {
     "title": "Elisha",
     "tier": "個人差D",
-    "attributes": ["CN", "BSS"]
+    "attributes": [
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "R5",
     "tier": "個人差D",
-    "attributes": ["交互連打", "同時", "軸押し", "終盤難"]
+    "attributes": [
+      "交互連打",
+      "同時",
+      "軸押し",
+      "終盤難"
+    ]
   },
   {
     "title": "RISLIM -Remix-",
     "tier": "個人差D",
-    "attributes": ["縦連", "ラス殺し"]
+    "attributes": [
+      "縦連",
+      "ラス殺し"
+    ]
   },
   {
     "title": "SWEETEST SAVAGE",
     "tier": "個人差D",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "Wonder Bullfighter",
     "tier": "個人差D",
-    "attributes": ["皿", "皿絡み", "同時", "後半難"]
+    "attributes": [
+      "皿",
+      "皿絡み",
+      "同時",
+      "後半難"
+    ]
   },
   {
     "title": "泰東ノ翠霞",
     "tier": "個人差D",
-    "attributes": ["トリル"]
+    "attributes": [
+      "トリル"
+    ]
   },
   {
     "title": "打打打打打打打打打打",
     "tier": "個人差D",
-    "attributes": ["BSS", "縦連"]
+    "attributes": [
+      "BSS",
+      "縦連"
+    ]
   },
   {
     "title": "輪廻の鴉",
     "tier": "個人差D",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "AFRO KNUCKLE",
     "tier": "地力E",
-    "attributes": ["皿＋同時連打", "ラス殺し"]
+    "attributes": [
+      "皿＋同時連打",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Amor De Verao",
     "tier": "地力E",
-    "attributes": ["乱打", "皿絡み", "縦連打"]
+    "attributes": [
+      "乱打",
+      "皿絡み",
+      "縦連打"
+    ]
   },
   {
     "title": "AMRITA -不滅ノ花-",
     "tier": "地力E",
-    "attributes": ["CN", "2重トリル"]
+    "attributes": [
+      "CN",
+      "2重トリル"
+    ]
   },
   {
     "title": "Believe In Me",
     "tier": "地力E",
-    "attributes": ["皿複合"]
+    "attributes": [
+      "皿複合"
+    ]
   },
   {
     "title": "BROKEN EDEN",
     "tier": "地力E",
-    "attributes": ["縦連", "ラス殺し"]
+    "attributes": [
+      "縦連",
+      "ラス殺し"
+    ]
   },
   {
     "title": "COLOSSEUM",
     "tier": "地力E",
-    "attributes": ["同時", "逆詐称"]
+    "attributes": [
+      "同時",
+      "逆詐称"
+    ]
   },
   {
     "title": "Cosmic Cat",
     "tier": "地力E",
-    "attributes": ["階段"]
+    "attributes": [
+      "階段"
+    ]
   },
   {
     "title": "crew",
     "tier": "地力E",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Cyber True Color",
     "tier": "地力E",
-    "attributes": ["終盤難"]
+    "attributes": [
+      "終盤難"
+    ]
   },
   {
     "title": "DAWN -THE NEXT ENDEAVOUR-",
     "tier": "地力E",
-    "attributes": ["物量", "同時押し"]
+    "attributes": [
+      "物量",
+      "同時押し"
+    ]
   },
   {
     "title": "Empire State Glory",
     "tier": "地力E",
-    "attributes": ["乱打", "階段", "皿複合"]
+    "attributes": [
+      "乱打",
+      "階段",
+      "皿複合"
+    ]
   },
   {
     "title": "Farewell to Marrakech",
     "tier": "地力E",
-    "attributes": ["ズレ", "トリル"]
+    "attributes": [
+      "ズレ",
+      "トリル"
+    ]
   },
   {
     "title": "Halfway of promise",
     "tier": "地力E",
-    "attributes": ["連皿", "皿絡み", "ラス殺し"]
+    "attributes": [
+      "連皿",
+      "皿絡み",
+      "ラス殺し"
+    ]
   },
   {
     "title": "KEY",
     "tier": "地力E",
-    "attributes": ["物量", "同時押し"]
+    "attributes": [
+      "物量",
+      "同時押し"
+    ]
   },
   {
     "title": "KING",
     "tier": "地力E",
-    "attributes": ["同時押し", "皿絡み"]
+    "attributes": [
+      "同時押し",
+      "皿絡み"
+    ]
   },
   {
     "title": "LASER CRUSTER(H)",
     "tier": "地力E",
-    "attributes": ["階段", "乱打"]
+    "attributes": [
+      "階段",
+      "乱打"
+    ]
   },
   {
     "title": "LIKE A VAMPIRE",
     "tier": "地力E",
-    "attributes": ["二重トリル", "同色階段"]
+    "attributes": [
+      "二重トリル",
+      "同色階段"
+    ]
   },
   {
     "title": "Linus",
     "tier": "地力E",
-    "attributes": ["同時", "階段", "トリル", "ラス殺し"]
+    "attributes": [
+      "同時",
+      "階段",
+      "トリル",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Lost Souls",
     "tier": "地力E",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Lost wing at.0",
     "tier": "地力E",
-    "attributes": ["CN", "皿絡み", "終盤難"]
+    "attributes": [
+      "CN",
+      "皿絡み",
+      "終盤難"
+    ]
   },
   {
     "title": "Lucy",
     "tier": "地力E",
-    "attributes": ["微連打", "階段", "ラス殺し"]
+    "attributes": [
+      "微連打",
+      "階段",
+      "ラス殺し"
+    ]
   },
   {
     "title": "MIRACLE MEETS",
     "tier": "地力E",
-    "attributes": ["CN", "BSS", "逆詐称"]
+    "attributes": [
+      "CN",
+      "BSS",
+      "逆詐称"
+    ]
   },
   {
     "title": "murmur twins",
     "tier": "地力E",
-    "attributes": ["階段", "乱打"]
+    "attributes": [
+      "階段",
+      "乱打"
+    ]
   },
   {
     "title": "NEW SENSATION -もう、あなたしか見えない-",
     "tier": "地力E",
-    "attributes": ["CN", "小階段", "逆詐称"]
+    "attributes": [
+      "CN",
+      "小階段",
+      "逆詐称"
+    ]
   },
   {
     "title": "No Tears",
     "tier": "地力E",
-    "attributes": ["局所難"]
+    "attributes": [
+      "局所難"
+    ]
   },
   {
     "title": "PENDUAL TALISMAN",
     "tier": "地力E",
-    "attributes": ["BSS", "微ソフラン"]
+    "attributes": [
+      "BSS",
+      "微ソフラン"
+    ]
   },
   {
     "title": "Programmed Genom",
     "tier": "地力E",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Raison d'etre～交差する宿命～",
     "tier": "地力E",
-    "attributes": ["ソフラン", "階段", "皿絡み"]
+    "attributes": [
+      "ソフラン",
+      "階段",
+      "皿絡み"
+    ]
   },
   {
     "title": "refractive index",
     "tier": "地力E",
-    "attributes": ["逆詐称"]
+    "attributes": [
+      "逆詐称"
+    ]
   },
   {
     "title": "Romanticが止まらない",
     "tier": "地力E",
-    "attributes": ["乱打", "皿同時押し"]
+    "attributes": [
+      "乱打",
+      "皿同時押し"
+    ]
   },
   {
     "title": "R∞tAge",
     "tier": "地力E",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "Sakura Reflection",
     "tier": "地力E",
-    "attributes": ["CN", "逆詐称"]
+    "attributes": [
+      "CN",
+      "逆詐称"
+    ]
   },
   {
     "title": "Second Heaven",
     "tier": "地力E",
-    "attributes": ["同時押し", "縦連", "ラス殺し"]
+    "attributes": [
+      "同時押し",
+      "縦連",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Secret of Love",
     "tier": "地力E",
-    "attributes": ["乱打", "軸押し", "ラス殺し"]
+    "attributes": [
+      "乱打",
+      "軸押し",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Seraph",
     "tier": "地力E",
-    "attributes": ["CN", "同時押し"]
+    "attributes": [
+      "CN",
+      "同時押し"
+    ]
   },
   {
     "title": "SHELTER OF THE MIND",
     "tier": "地力E",
-    "attributes": ["同時押し"]
+    "attributes": [
+      "同時押し"
+    ]
   },
   {
     "title": "Shiva",
     "tier": "地力E",
-    "attributes": ["BSS"]
+    "attributes": [
+      "BSS"
+    ]
   },
   {
     "title": "SOLID WYVERN",
     "tier": "地力E",
-    "attributes": ["トリル", "ハネリズム"]
+    "attributes": [
+      "トリル",
+      "ハネリズム"
+    ]
   },
   {
     "title": "spiral galaxy",
     "tier": "地力E",
-    "attributes": ["トリル", "乱打", "ラス殺し"]
+    "attributes": [
+      "トリル",
+      "乱打",
+      "ラス殺し"
+    ]
   },
   {
     "title": "うさ☆かめ 大戦争！",
     "tier": "地力E",
-    "attributes": ["皿絡み", "階段"]
+    "attributes": [
+      "皿絡み",
+      "階段"
+    ]
   },
   {
     "title": "ガヴリールドロップキック",
     "tier": "地力E",
-    "attributes": ["ソフラン"]
+    "attributes": [
+      "ソフラン"
+    ]
   },
   {
     "title": "仮想空間の旅人たち",
     "tier": "地力E",
-    "attributes": ["乱打", "全押し"]
+    "attributes": [
+      "乱打",
+      "全押し"
+    ]
   },
   {
     "title": "恋は白帯、サンシロー(L)",
     "tier": "地力E",
-    "attributes": ["同時"]
+    "attributes": [
+      "同時"
+    ]
   },
   {
     "title": "セロトニン",
     "tier": "地力E",
-    "attributes": ["皿複合", "階段", "CN", "縦連"]
+    "attributes": [
+      "皿複合",
+      "階段",
+      "CN",
+      "縦連"
+    ]
   },
   {
     "title": "眠りの国のステラ",
     "tier": "地力E",
-    "attributes": ["CN"]
+    "attributes": [
+      "CN"
+    ]
   },
   {
     "title": "ハードベース・フェスタ",
     "tier": "地力E",
-    "attributes": ["乱打"]
+    "attributes": [
+      "乱打"
+    ]
   },
   {
     "title": "ミッドナイト堕天使",
     "tier": "地力E",
-    "attributes": ["トリル", "同時", "皿絡み"]
+    "attributes": [
+      "トリル",
+      "同時",
+      "皿絡み"
+    ]
   },
   {
     "title": "ミュージック・アワー",
     "tier": "地力E",
-    "attributes": ["同時押し", "BSS"]
+    "attributes": [
+      "同時押し",
+      "BSS"
+    ]
   },
   {
     "title": "勇者",
     "tier": "地力E",
-    "attributes": ["要体力"]
+    "attributes": [
+      "要体力"
+    ]
   },
   {
     "title": "Blind Justice ～Torn souls， Hurt Faiths ～",
     "tier": "地力F",
-    "attributes": ["同時押し", "乱打", "終盤難"]
+    "attributes": [
+      "同時押し",
+      "乱打",
+      "終盤難"
+    ]
   },
   {
     "title": "Change Yourself",
     "tier": "地力F",
-    "attributes": ["乱打", "CN", "BSS"]
+    "attributes": [
+      "乱打",
+      "CN",
+      "BSS"
+    ]
   },
   {
     "title": "D.C.fish",
     "tier": "地力F",
-    "attributes": ["トリル", "同時押し", "乱打", "ラス殺し"]
+    "attributes": [
+      "トリル",
+      "同時押し",
+      "乱打",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Destiny Sword",
     "tier": "地力F",
-    "attributes": ["階段", "トリル"]
+    "attributes": [
+      "階段",
+      "トリル"
+    ]
   },
   {
     "title": "Erosion Mark",
     "tier": "地力F",
-    "attributes": ["軸"]
+    "attributes": [
+      "軸"
+    ]
   },
   {
     "title": "Love Is Eternity",
     "tier": "地力F",
-    "attributes": ["乱打", "階段", "ラス殺し"]
+    "attributes": [
+      "乱打",
+      "階段",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Marie Antoinette",
     "tier": "地力F",
-    "attributes": ["階段", "ソフラン"]
+    "attributes": [
+      "階段",
+      "ソフラン"
+    ]
   },
   {
     "title": "PopなEDEN",
     "tier": "地力F",
-    "attributes": ["同時押し", "階段"]
+    "attributes": [
+      "同時押し",
+      "階段"
+    ]
   },
   {
     "title": "Rock Da House",
     "tier": "地力F",
-    "attributes": ["皿複合", "逆詐称"]
+    "attributes": [
+      "皿複合",
+      "逆詐称"
+    ]
   },
   {
     "title": "Take It Easy",
     "tier": "地力F",
-    "attributes": ["縦連", "トリル", "ラス殺し"]
+    "attributes": [
+      "縦連",
+      "トリル",
+      "ラス殺し"
+    ]
   },
   {
     "title": "Tell me what you wish feat.らっぷびと",
     "tier": "地力F",
-    "attributes": ["トリル"]
+    "attributes": [
+      "トリル"
+    ]
   },
   {
     "title": "Ventriloquist",
     "tier": "地力F",
-    "attributes": ["皿複合", "ズレ"]
+    "attributes": [
+      "皿複合",
+      "ズレ"
+    ]
   },
   {
     "title": "少年リップルズ",
     "tier": "地力F",
-    "attributes": ["CN", "ラス殺し"]
+    "attributes": [
+      "CN",
+      "ラス殺し"
+    ]
   },
   {
     "title": "牧神笛吹きて",
     "tier": "地力F",
-    "attributes": ["階段"]
+    "attributes": [
+      "階段"
+    ]
   },
   {
     "title": "ミッドナイト☆WAR",
     "tier": "地力F",
-    "attributes": ["CN", "同時押し", "二重トリル"]
+    "attributes": [
+      "CN",
+      "同時押し",
+      "二重トリル"
+    ]
   },
   {
     "title": "Fascination MAXX(H)",
     "tier": "超個人差",
-    "attributes": ["軸押し", "同時押し", "縦連", "同色階段", "ソフラン"]
+    "attributes": [
+      "軸押し",
+      "同時押し",
+      "縦連",
+      "同色階段",
+      "ソフラン"
+    ]
   },
   {
     "title": "100％ minimoo-G",
     "tier": "超個人差",
-    "attributes": ["縦連特化", "高速トリル", "ラス殺し"]
+    "attributes": [
+      "縦連特化",
+      "高速トリル",
+      "ラス殺し"
+    ]
   }
 ]
