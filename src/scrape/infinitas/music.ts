@@ -2,11 +2,17 @@ import * as cheerio from "cheerio";
 import fs from "fs-extra";
 import path from "path";
 
+import type { Element } from "domhandler";
+
 import type { MusicEntry } from "./types.js";
 import { DOCS_DIR } from "../shared.js";
 
 const TARGET_URL = "https://p.eagate.573.jp/game/infinitas/2/music/index.html";
 const OUTPUT_FILE = path.join(DOCS_DIR, "infinitas/music.json");
+
+function normalizeText(value: string): string {
+  return value.replace(/\s+/g, " ").trim();
+}
 
 async function scrapeMusic() {
   try {
@@ -30,31 +36,64 @@ async function scrapeMusic() {
 
     const musicList: MusicEntry[] = [];
 
-    // Select all TRs. Cheerio handles multiple elements with same ID fine.
-    // We strictly check for <td> elements to avoid <th> headers.
-    $("div#music-list table tr").each((_, el) => {
-      // Check if this row belongs to the LEGGENDARIA section
-      // The structure is: <div id="music-list"><div class="cat" id="leg">...</div><table>...</table></div>
-      // We can check if the closest matching previous 'div.cat' has id="leg"
-      const parentBlock = $(el).closest("div#music-list");
-      const categoryId = parentBlock.find("div.cat").attr("id");
+    const appendTableRows = (table: Element, packName: string | null) => {
+      $(table)
+        .find("tr")
+        .each((_, row) => {
+          const tds = $(row).find("td");
 
-      if (categoryId === "leg" || categoryId === "trial") {
+          // Ensure we have at least Title and Artist columns
+          if (tds.length >= 2) {
+            const title = $(tds[0]).text().trim();
+            const artist = $(tds[1]).text().trim();
+
+            // Skip empty titles
+            if (title) {
+              musicList.push({ title, artist, packName });
+            }
+          }
+        });
+    };
+
+    $("div#music-list").each((_, listEl) => {
+      const list = $(listEl);
+      const sectionId = list.children("div.cat").first().attr("id");
+
+      if (sectionId === "leg" || sectionId === "trial") {
         return; // Skip LEGGENDARIA and Trial Mode
       }
 
-      const tds = $(el).find("td");
+      if (sectionId === "pac") {
+        let currentPackName: string | null = null;
 
-      // Ensure we have at least Title and Artist columns
-      if (tds.length >= 2) {
-        const title = $(tds[0]).text().trim();
-        const artist = $(tds[1]).text().trim();
+        list.children().each((_, child) => {
+          const childEl = $(child);
 
-        // Skip empty titles
-        if (title) {
-          musicList.push({ title, artist });
-        }
+          if (childEl.is("div.cat")) {
+            const catId = childEl.attr("id");
+            if (catId === "pac") {
+              currentPackName = null;
+              return;
+            }
+
+            const packNameText = childEl.find("strong").text();
+            if (packNameText) {
+              currentPackName = normalizeText(packNameText);
+            }
+            return;
+          }
+
+          if (childEl.is("table")) {
+            appendTableRows(child as Element, currentPackName);
+          }
+        });
+
+        return;
       }
+
+      list.find("table").each((_, table) => {
+        appendTableRows(table as Element, null);
+      });
     });
 
     console.log(`Found ${musicList.length} songs.`);

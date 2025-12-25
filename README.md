@@ -14,7 +14,8 @@ https://dqn.github.io/iidxapi/infinitas/music.json
 [
   {
     "title": "Song Title",
-    "artist": "Artist Name"
+    "artist": "Artist Name",
+    "packName": "楽曲パック名"
   }
 ]
 ```
