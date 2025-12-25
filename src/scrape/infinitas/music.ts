@@ -1,11 +1,10 @@
 import * as cheerio from "cheerio";
-import fs from "fs-extra";
 import path from "path";
 
 import type { Element } from "domhandler";
 
 import type { MusicEntry } from "./types.js";
-import { DOCS_DIR } from "../shared.js";
+import { DOCS_DIR, writeDocsJson } from "../shared.js";
 
 const TARGET_URL = "https://p.eagate.573.jp/game/infinitas/2/music/index.html";
 const OUTPUT_FILE = path.join(DOCS_DIR, "infinitas/music.json");
@@ -98,9 +97,8 @@ async function scrapeMusic() {
 
     console.log(`Found ${musicList.length} songs.`);
 
-    console.log(`Writing to ${OUTPUT_FILE}...`);
-    await fs.ensureDir(path.dirname(OUTPUT_FILE));
-    await fs.writeJson(OUTPUT_FILE, musicList, { spaces: 2 });
+    console.log("Writing output files...");
+    await writeDocsJson(OUTPUT_FILE, musicList);
 
     console.log("Done.");
   } catch (error) {

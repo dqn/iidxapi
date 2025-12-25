@@ -14,6 +14,49 @@ interface ScrapeOptions {
 }
 
 export const DOCS_DIR = path.join(import.meta.dirname, "../../docs");
+export const DOCS_PRETTY_DIR = path.join(
+  import.meta.dirname,
+  "../../docs-pretty",
+);
+
+function resolveChromiumExecutablePath(): string | undefined {
+  const defaultPath = chromium.executablePath();
+  if (fs.existsSync(defaultPath)) {
+    return defaultPath;
+  }
+
+  if (process.platform === "darwin") {
+    const armPath = defaultPath.replace(/-mac-x64/g, "-mac-arm64");
+    if (armPath !== defaultPath && fs.existsSync(armPath)) {
+      return armPath;
+    }
+  }
+
+  return undefined;
+}
+
+function resolvePrettyOutputFile(outputFile: string): string {
+  const relativePath = path.relative(DOCS_DIR, outputFile);
+  if (relativePath.startsWith("..") || path.isAbsolute(relativePath)) {
+    if (outputFile.endsWith(".json")) {
+      return outputFile.replace(/\.json$/, ".pretty.json");
+    }
+    return `${outputFile}.pretty`;
+  }
+  return path.join(DOCS_PRETTY_DIR, relativePath);
+}
+
+export async function writeDocsJson<T>(
+  outputFile: string,
+  payload: T,
+): Promise<void> {
+  await fs.ensureDir(path.dirname(outputFile));
+  await fs.writeJson(outputFile, payload);
+
+  const prettyFile = resolvePrettyOutputFile(outputFile);
+  await fs.ensureDir(path.dirname(prettyFile));
+  await fs.writeJson(prettyFile, payload, { spaces: 2 });
+}
 
 // atwiki 難易度表のスクレイピング共通関数
 export async function scrapeDifficultyTable(
@@ -22,9 +65,15 @@ export async function scrapeDifficultyTable(
   const { targetUrl, outputFile } = options;
 
   console.log("Launching browser...");
+  const executablePath = resolveChromiumExecutablePath();
   const browser = await chromium.launch({
     headless: true,
-    args: ["--disable-blink-features=AutomationControlled"],
+    args: [
+      "--disable-blink-features=AutomationControlled",
+      "--disable-crashpad",
+      "--disable-crash-reporter",
+    ],
+    executablePath,
   });
   const context = await browser.newContext({
     userAgent:
@@ -91,9 +140,8 @@ export async function scrapeDifficultyTable(
 
     console.log(`Found ${entries.length} songs.`);
 
-    console.log(`Writing to ${outputFile}...`);
-    await fs.ensureDir(path.dirname(outputFile));
-    await fs.writeJson(outputFile, entries, { spaces: 2 });
+    console.log("Writing output files...");
+    await writeDocsJson(outputFile, entries);
 
     console.log("Done.");
   } catch (error) {
