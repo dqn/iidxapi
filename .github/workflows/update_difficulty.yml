@@ -48,7 +48,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs/sp11/normal.json docs/sp11/hard.json docs/sp12/normal.json docs/sp12/hard.json
+          git add docs/sp11/normal.json docs/sp11/hard.json docs/sp12/normal.json docs/sp12/hard.json docs-pretty/sp11/normal.json docs-pretty/sp11/hard.json docs-pretty/sp12/normal.json docs-pretty/sp12/hard.json
           # Only commit if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
